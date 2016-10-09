@@ -107,7 +107,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
-- [ ] [Machine Learning basics for a newbie] https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/
+- [ ] [Machine Learning basics for a newbie] (https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 
 ## Machine learning mastery
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
