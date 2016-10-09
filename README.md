@@ -80,7 +80,7 @@ I'm on the journey.
 ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.jpg)
 
 ## Don't feel you aren't smart enough
-- I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
+I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
 
 - [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
 - [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
@@ -96,7 +96,7 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [ ][Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 ## The Daily Plan
 
