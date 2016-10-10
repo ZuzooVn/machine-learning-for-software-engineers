@@ -77,7 +77,7 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 
 I'm on the journey. 
 
-![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.jpg)
+![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -155,3 +155,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+
+## Becoming an Open Source Contributor
+- [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
+- [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+- [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
+- [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+
+## My admired companies
+- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
