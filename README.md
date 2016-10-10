@@ -32,6 +32,8 @@ Please, feel free to make any contributions you feel will make it better.
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
 - [Video](#video)
 - [MOOC](#mooc)
+- [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
+- [My admired companies](#my-admired-companies)
 
 ---
 
@@ -138,6 +140,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
 - [ ] [Programming Collective Intelligence: Building Smart Web 2.0 Applications](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications-ebook/dp/B00F8QDZWG)
+- [ ] [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
+- [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists(Pre-order)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
+- [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
+- [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
