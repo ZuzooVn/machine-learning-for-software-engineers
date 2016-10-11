@@ -60,17 +60,13 @@ I think the best way for practice-focused methodology is something like ['practi
  It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## How to use it
-
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using Github's special markdown flavor, including tasks lists to check my progress.
+I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-I check each task box at the beginning of a line when I'm done with it. When all sub-items in a block are done,
-I put [x] at the top level, meaning the entire block is done. Sorry you have to remove all my [x] markings
-to use this the same way. If you search/replace, just replace [x] with [ ].
-Sometimes I just put a [x] at top level if I know I've done all the subtasks, to cut down on clutter.
+- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
-More about Github flavored markdown: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
+[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Follow me
 I'm a Vietnamese Software Engineer who are really passionate and want to work in the USA.
