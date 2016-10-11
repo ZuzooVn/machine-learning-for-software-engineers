@@ -156,6 +156,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## MOOC
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
 
