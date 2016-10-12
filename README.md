@@ -155,6 +155,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
 - [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists(Pre-order)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
+	- Teaching material
+		- [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
+		- [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
 - [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
 	- [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 
