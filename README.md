@@ -156,6 +156,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists(Pre-order)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
 - [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
+	- [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
