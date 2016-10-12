@@ -185,6 +185,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Resources
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
+- [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
