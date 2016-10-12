@@ -179,3 +179,15 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
+
+## Communities
+- ### Quora
+	- [Machine Learning](https://www.quora.com/topic/Machine-Learning)
+	- [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
+	- [Data Mining](https://www.quora.com/topic/Data-Mining)
+
+- ### Reddit
+	- [Machine Learning](https://www.reddit.com/r/machinelearning)
+
+- ### [Data Tau](http://www.datatau.com/)
+
