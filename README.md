@@ -34,6 +34,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Video](#video)
 - [MOOC](#mooc)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
+- [Communities](#communities)
 - [My admired companies](#my-admired-companies)
 
 ---
@@ -177,9 +178,6 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
-## My admired companies
-- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
-
 ## Communities
 - ### Quora
 	- [Machine Learning](https://www.quora.com/topic/Machine-Learning)
@@ -191,3 +189,5 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### [Data Tau](http://www.datatau.com/)
 
+## My admired companies
+- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
