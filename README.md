@@ -153,7 +153,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
 	- [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
 	- [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
-- [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists(Pre-order)](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
+- [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
+	- [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
 	- Teaching material
 		- [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
