@@ -24,6 +24,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
+- [Motivation](#motivation)
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
@@ -109,6 +110,9 @@ This short section were prerequisites/interesting info I wanted to learn before 
 Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
 
 Each day I take one subject from the list below, read it cover to cover, take note, do the exercises and write an implementation in Python or R.
+
+# Motivation
+- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
