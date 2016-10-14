@@ -169,6 +169,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 		- [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
 - [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
 	- [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
+- [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
