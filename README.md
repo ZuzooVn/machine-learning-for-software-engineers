@@ -187,6 +187,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
+    - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 
 ## Resources
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
