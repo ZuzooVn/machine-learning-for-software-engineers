@@ -198,6 +198,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+    - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
 
 ## Resources
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
