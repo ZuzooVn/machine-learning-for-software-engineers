@@ -19,6 +19,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
+- [Follow me](#follow-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
