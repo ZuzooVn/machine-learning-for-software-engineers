@@ -199,6 +199,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
     - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
+- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 
 ## Resources
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
