@@ -229,5 +229,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### [Deep Learning News](http://news.startup.ml/)
 
+- ### [KDnuggets](http://www.kdnuggets.com/)
+
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
