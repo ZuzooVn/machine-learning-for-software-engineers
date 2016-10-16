@@ -226,5 +226,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### [Data Tau](http://www.datatau.com/)
 
+- ### [Deep Learning News](http://news.startup.ml/)
+
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
