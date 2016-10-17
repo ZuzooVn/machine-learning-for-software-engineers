@@ -223,6 +223,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
 	- [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- Flipboard Topics
+	- [Machine learning](https://flipboard.com/topic/machinelearning)
+	- [Deep learning](https://flipboard.com/topic/deeplearning)
+	- [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
