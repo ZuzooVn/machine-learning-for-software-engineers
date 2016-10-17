@@ -234,6 +234,21 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
+## Podcasts
+- ### Podcasts for Beginners:
+	- [Talking Machines](http://www.thetalkingmachines.com/)
+	- [Linear Digressions](http://lineardigressions.com/)
+	- [Data Skeptic](http://dataskeptic.com/)
+	- [This Week in Machine Learning & AI](https://twimlai.com/)
+
+- ### "More" advanced podcasts
+	- [Partially Derivative](http://partiallyderivative.com/)
+	- [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+	- [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+
+- ### Podcasts to think outside the box:
+	- [Data Stories](http://datastori.es/)
+
 ## Communities
 - ### Quora
 	- [Machine Learning](https://www.quora.com/topic/Machine-Learning)
