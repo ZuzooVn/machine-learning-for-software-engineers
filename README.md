@@ -250,19 +250,19 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Data Stories](http://datastori.es/)
 
 ## Communities
-- ### Quora
+- Quora
 	- [Machine Learning](https://www.quora.com/topic/Machine-Learning)
 	- [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
 	- [Data Mining](https://www.quora.com/topic/Data-Mining)
 
-- ### Reddit
+- Reddit
 	- [Machine Learning](https://www.reddit.com/r/machinelearning)
 
-- ### [Data Tau](http://www.datatau.com/)
+- [Data Tau](http://www.datatau.com/)
 
-- ### [Deep Learning News](http://news.startup.ml/)
+- [Deep Learning News](http://news.startup.ml/)
 
-- ### [KDnuggets](http://www.kdnuggets.com/)
+- [KDnuggets](http://www.kdnuggets.com/)
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
