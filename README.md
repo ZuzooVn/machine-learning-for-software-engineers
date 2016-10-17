@@ -261,6 +261,11 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - Reddit
 	- [Machine Learning](https://www.reddit.com/r/machinelearning)
+	- [Computer Vision](https://www.reddit.com/r/computervision)
+	- [Natural Language](https://www.reddit.com/r/languagetechnology)
+	- [Data Science](https://www.reddit.com/r/datascience)
+	- [Big Data](https://www.reddit.com/r/bigdata)
+	- [Statistics](https://www.reddit.com/r/statistics)
 
 - [Data Tau](http://www.datatau.com/)
 
