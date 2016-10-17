@@ -79,6 +79,8 @@ How much did I work during this plan? Roughly 4 hours/night after a long, hard d
 
 I'm on the journey. 
 
+- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
+
 | ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
 |:---:|
 | USA as heck | 
