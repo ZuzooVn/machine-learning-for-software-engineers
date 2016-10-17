@@ -30,6 +30,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Machine learning is fun](#machine-learning-is-fun)
 - [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
 - [Stories and experiences](#stories-and-experiences)
+- [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Beginner Books](#beginner-books)
 - [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
@@ -155,6 +156,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
+## Machine Learning Algorithms
+- [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
+- [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
+- [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
 ## Beginner Books
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
 - [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
@@ -183,7 +190,6 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
-
 
 ## Video Series
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
