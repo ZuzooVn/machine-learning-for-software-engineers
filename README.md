@@ -219,7 +219,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-- [ ] [Enough Machine Learning to Make Hacker News Readable Again](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
+- [ ] Enough Machine Learning to Make Hacker News Readable Again
+	- [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
+	- [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 ## Becoming an Open Source Contributor
