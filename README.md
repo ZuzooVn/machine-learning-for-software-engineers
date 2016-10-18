@@ -189,6 +189,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
 	- [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+- [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
