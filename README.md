@@ -238,11 +238,11 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Deep learning](https://medium.com/tag/deep-learning)
 	- [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
 - Monthly top 10 articles
-	- [Machine Learning] 
+	- Machine Learning
 		- [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
 		- [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
 		- [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
-	- [Algorithms]
+	- Algorithms
 		- [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
 
 ## Becoming an Open Source Contributor
