@@ -171,7 +171,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## Practical Books
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
-	- [GitHub repository](https://github.com/johnmyleswhite/ML_for_Hackers)
+	- [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
+	- [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
 	- [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
 - [ ] [Programming Collective Intelligence: Building Smart Web 2.0 Applications](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications-ebook/dp/B00F8QDZWG)
