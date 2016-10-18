@@ -233,6 +233,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Machine learning](https://flipboard.com/topic/machinelearning)
 	- [Deep learning](https://flipboard.com/topic/deeplearning)
 	- [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
+- Medium Topics
+	- [Machine learning](https://medium.com/tag/machine-learning/latest)
+	- [Deep learning](https://medium.com/tag/deep-learning)
+	- [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
