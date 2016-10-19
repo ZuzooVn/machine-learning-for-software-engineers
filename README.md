@@ -20,7 +20,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [Don't feel you are smart enough](#dont-feel-you-are-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
@@ -86,7 +86,7 @@ I'm on the journey.
 |:---:|
 | USA as heck | 
 
-## Don't feel you aren't smart enough
+## Don't feel you are smart enough
 I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
 
 - [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
