@@ -192,6 +192,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+- [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
