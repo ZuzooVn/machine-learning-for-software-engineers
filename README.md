@@ -190,6 +190,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
 	- [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+	- [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
+	- [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
