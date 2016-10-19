@@ -210,6 +210,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Resources](https://bigml.com/releases)
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 
+
 ## MOOC
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
@@ -251,6 +252,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 		- [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
 	- Algorithms
 		- [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
+- [Comprehensive list of data science resources][http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources]
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
