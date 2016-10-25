@@ -47,7 +47,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Beginner Books](#beginner-books)
 - [Practical Books](#practical-books)
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
-- [Video](#video)
+- [Video Series](#video-series)
 - [MOOC](#mooc)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
 - [Communities](#communities)
