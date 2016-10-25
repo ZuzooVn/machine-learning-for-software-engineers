@@ -14,7 +14,7 @@
 
 Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-_If you like this project, please give me a star._ &#9733;
+Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md)
 
 ## What is it?
 
