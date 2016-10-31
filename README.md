@@ -212,6 +212,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+- [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+	- [GitHub repository](https://github.com/gmonce/scikit-learn-book)
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
 
