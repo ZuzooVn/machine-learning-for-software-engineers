@@ -90,7 +90,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Follow me
-I'm a Vietnamese Software Engineer who are really passionate and want to work in the USA.
+I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
 
