@@ -338,7 +338,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-##Interview Questions
+## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
 - [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
