@@ -49,7 +49,9 @@ Please, feel free to make any contributions you feel will make it better.
 - [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
 - [Video Series](#video-series)
 - [MOOC](#mooc)
+- [Resources](#resources)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
+- [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Interview Questions](#interview-questions)
 - [My admired companies](#my-admired-companies)
@@ -88,7 +90,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Follow me
-I'm a Vietnamese Software Engineer who are really passionate and want to work in the USA.
+I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
 
@@ -163,6 +165,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Stories and experiences
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
+- [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
@@ -178,6 +181,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [ ] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 
 ## Beginner Books
@@ -211,8 +215,17 @@ Each day I take one subject from the list below, read it cover to cover, take no
 	- [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
 	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+- [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+	- [GitHub repository](https://github.com/gmonce/scikit-learn-book)
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
+- [ ] [Machine Learning: Hands-On for Developers and Technical Professionals](https://www.amazon.com/Machine-Learning-Hands-Developers-Professionals/dp/1118889061)
+	- [Machine Learning Hands-On for Developers and Technical Professionals review](https://blogs.msdn.microsoft.com/querysimon/2015/01/01/book-review-machine-learning-hands-on-for-developers-and-technical-professionals/)
+	- [GitHub repository](https://github.com/jasebell/mlbook)
+- [ ] [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
+	- [Online tutorials](https://work.caltech.edu/telecourse.html)
+- [ ] [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+	- [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -231,6 +244,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 	- [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
+	- [Blog](http://blog.kaggle.com/author/kevin-markham/)
+- [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+- [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 
 ## MOOC
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -278,6 +294,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [Machine Learning Summer Schools](http://mlss.cc/)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
