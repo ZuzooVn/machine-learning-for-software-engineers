@@ -41,6 +41,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Machine learning overview](#machine-learning-overview)
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
+- [Machine Learning explained to my girlfriend](#machine-learning-explained-to-my-girlfriend)
 - [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
