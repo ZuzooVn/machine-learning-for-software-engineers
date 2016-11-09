@@ -5,10 +5,10 @@
     <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
   </a>
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
-	<img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
   </a>
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/network">
-	<img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
   </a>
 </p>
 
@@ -60,14 +60,14 @@ Please, feel free to make any contributions you feel will make it better.
 
 ## Why use it?
 
-I'm following this plan to prepare for my near future job: Machine learning engineer. I've been building the native mobile application (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have itty bitty of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics at university.
+I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
 Think about my interest in machine learning:
 - [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - You can, but it is far more difficult than when I got into the field.
 - [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
     - I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems
 - [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook.
+    - First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook.
     - Statistics, Probability, distributed computing, and Statistics.
 
 I find myself in times of trouble.
@@ -169,8 +169,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
-	- [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
-	- [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
+    - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
+    - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [ ] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
 - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
@@ -191,41 +191,41 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## Practical Books
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
-	- [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
-	- [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
+    - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
+    - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
-	- [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
+    - [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
 - [ ] [Programming Collective Intelligence: Building Smart Web 2.0 Applications](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications-ebook/dp/B00F8QDZWG)
 - [ ] [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
-	- [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
-	- [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
+    - [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
+    - [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
 - [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
-	- [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
+    - [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
-	- Teaching material
-		- [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
-		- [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
+    - Teaching material
+        - [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
+        - [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
 - [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
-	- [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
+    - [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 - [ ] [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
-	- [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
+    - [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-	- [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
-	- [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
-	- [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+    - [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
+    - [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
+    - [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
-	- [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+    - [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 - [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
-	- [GitHub repository](https://github.com/gmonce/scikit-learn-book)
+    - [GitHub repository](https://github.com/gmonce/scikit-learn-book)
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
 - [ ] [Machine Learning: Hands-On for Developers and Technical Professionals](https://www.amazon.com/Machine-Learning-Hands-Developers-Professionals/dp/1118889061)
-	- [Machine Learning Hands-On for Developers and Technical Professionals review](https://blogs.msdn.microsoft.com/querysimon/2015/01/01/book-review-machine-learning-hands-on-for-developers-and-technical-professionals/)
-	- [GitHub repository](https://github.com/jasebell/mlbook)
+    - [Machine Learning Hands-On for Developers and Technical Professionals review](https://blogs.msdn.microsoft.com/querysimon/2015/01/01/book-review-machine-learning-hands-on-for-developers-and-technical-professionals/)
+    - [GitHub repository](https://github.com/jasebell/mlbook)
 - [ ] [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
-	- [Online tutorials](https://work.caltech.edu/telecourse.html)
+    - [Online tutorials](https://work.caltech.edu/telecourse.html)
 - [ ] [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
-	- [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+    - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -239,12 +239,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
 - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
-	- [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
-	- [Resources](https://bigml.com/releases)
+    - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
+    - [Resources](https://bigml.com/releases)
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
-	- [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
-	- [Blog](http://blog.kaggle.com/author/kevin-markham/)
+    - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
+    - [Blog](http://blog.kaggle.com/author/kevin-markham/)
 - [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 - [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 
@@ -273,24 +273,24 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] Enough Machine Learning to Make Hacker News Readable Again
-	- [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
-	- [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
+    - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
+    - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - Flipboard Topics
-	- [Machine learning](https://flipboard.com/topic/machinelearning)
-	- [Deep learning](https://flipboard.com/topic/deeplearning)
-	- [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
+    - [Machine learning](https://flipboard.com/topic/machinelearning)
+    - [Deep learning](https://flipboard.com/topic/deeplearning)
+    - [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
 - Medium Topics
-	- [Machine learning](https://medium.com/tag/machine-learning/latest)
-	- [Deep learning](https://medium.com/tag/deep-learning)
-	- [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
+    - [Machine learning](https://medium.com/tag/machine-learning/latest)
+    - [Deep learning](https://medium.com/tag/deep-learning)
+    - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
 - Monthly top 10 articles
-	- Machine Learning
-		- [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
-		- [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
-		- [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
-	- Algorithms
-		- [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
+    - Machine Learning
+        - [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
+        - [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
+        - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
+    - Algorithms
+        - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [Machine Learning Summer Schools](http://mlss.cc/)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
@@ -305,32 +305,32 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## Podcasts
 - ### Podcasts for Beginners:
-	- [Talking Machines](http://www.thetalkingmachines.com/)
-	- [Linear Digressions](http://lineardigressions.com/)
-	- [Data Skeptic](http://dataskeptic.com/)
-	- [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
 
 - ### "More" advanced podcasts
-	- [Partially Derivative](http://partiallyderivative.com/)
-	- [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
-	- [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
 
 - ### Podcasts to think outside the box:
-	- [Data Stories](http://datastori.es/)
+    - [Data Stories](http://datastori.es/)
 
 ## Communities
 - Quora
-	- [Machine Learning](https://www.quora.com/topic/Machine-Learning)
-	- [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
-	- [Data Mining](https://www.quora.com/topic/Data-Mining)
+    - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
+    - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
+    - [Data Mining](https://www.quora.com/topic/Data-Mining)
 
 - Reddit
-	- [Machine Learning](https://www.reddit.com/r/machinelearning)
-	- [Computer Vision](https://www.reddit.com/r/computervision)
-	- [Natural Language](https://www.reddit.com/r/languagetechnology)
-	- [Data Science](https://www.reddit.com/r/datascience)
-	- [Big Data](https://www.reddit.com/r/bigdata)
-	- [Statistics](https://www.reddit.com/r/statistics)
+    - [Machine Learning](https://www.reddit.com/r/machinelearning)
+    - [Computer Vision](https://www.reddit.com/r/computervision)
+    - [Natural Language](https://www.reddit.com/r/languagetechnology)
+    - [Data Science](https://www.reddit.com/r/datascience)
+    - [Big Data](https://www.reddit.com/r/bigdata)
+    - [Statistics](https://www.reddit.com/r/statistics)
 
 - [Data Tau](http://www.datatau.com/)
 
@@ -338,7 +338,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-##Interview Questions
+## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
 - [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
