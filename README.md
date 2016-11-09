@@ -272,6 +272,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ## Resources
+- [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
