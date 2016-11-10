@@ -282,6 +282,11 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
     - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- Machine Learning courses in Universities
+    - [ ] [Stanford](http://ai.stanford.edu/courses/)
+    - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
+    - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+    - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
 - Flipboard Topics
     - [Machine learning](https://flipboard.com/topic/machinelearning)
     - [Deep learning](https://flipboard.com/topic/deeplearning)
@@ -298,15 +303,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - Algorithms
         - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
-- [Machine Learning Summer Schools](http://mlss.cc/)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
-- [ ] Machine Learning courses in Universities
-    - [Stanford](http://ai.stanford.edu/courses/)
-    - [Machine Learning Summer Schools](http://mlss.cc/)
-    - [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-    - [Cambridge](http://mlg.eng.cam.ac.uk/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
