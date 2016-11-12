@@ -52,7 +52,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [MOOC](#mooc)
 - [Resources](#resources)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
-- [Game](#game)
+- [Games](#games)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Interview Questions](#interview-questions)
@@ -308,7 +308,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
-## Game
+## Games
 - [Halite: A.I. Coding Game](https://halite.io/)
 
 ## Becoming an Open Source Contributor
