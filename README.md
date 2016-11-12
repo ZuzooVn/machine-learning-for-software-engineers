@@ -314,6 +314,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [General Video Game AI Competition](http://www.gvgai.net/)
 - [Angry Birds AI Competition](https://aibirds.org/)
 - [The AI Games](http://theaigames.com/)
+- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
