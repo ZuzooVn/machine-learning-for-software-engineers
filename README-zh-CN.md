@@ -45,6 +45,7 @@
 - [MOOC](#mooc)
 - [资源](#资源)
 - [成为一名开源贡献者](#成为一名开源贡献者)
+- [游戏](#游戏)
 - [播客](#播客)
 - [社区](#社区)
 - [面试问题](#面试问题)
@@ -302,6 +303,9 @@
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+
+## 游戏
+- [Halite：AI编程游戏](https://halite.io/)
 
 ## 播客
 - ### 适合初学者的播客：
