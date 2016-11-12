@@ -317,6 +317,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
 - [CodeCup](http://www.codecup.nl/intro.php)
 - [Student StarCraft AI Tournament](http://sscaitournament.com/)
+- [AIIDE StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
