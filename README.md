@@ -312,6 +312,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Halite: A.I. Coding Game](https://halite.io/)
 - [Vindinium: A.I. Programming Challenge](http://vindinium.org/)
 - [General Video Game AI Competition](http://www.gvgai.net/)
+- [Angry Birds AI Competition](https://aibirds.org/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
