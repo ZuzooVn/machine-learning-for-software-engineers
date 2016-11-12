@@ -52,6 +52,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [MOOC](#mooc)
 - [Resources](#resources)
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
+- [Game](#game)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [Interview Questions](#interview-questions)
@@ -306,6 +307,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+
+## Game
+- [Halite: A.I. Coding Game](https://halite.io/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
