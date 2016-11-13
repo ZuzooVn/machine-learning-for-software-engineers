@@ -291,6 +291,7 @@
         - [2016年7月](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
         - [2016年8月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
         - [2016年9月](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
+        - [2016年10月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
     - 算法
         - [2016年9月](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
 - [全面的数据科学家的资源](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
@@ -306,6 +307,16 @@
 
 ## 游戏
 - [Halite：AI编程游戏](https://halite.io/)
+- [Vindinium: 挑战AI编程](http://vindinium.org/)
+- [Video Game AI比赛](http://www.gvgai.net/)
+- [愤怒的小鸟AI比赛](https://aibirds.org/)
+- [The AI Games](http://theaigames.com/)
+- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
+- [CodeCup](http://www.codecup.nl/intro.php)
+- [星际争霸AI学生锦标赛](http://sscaitournament.com/)
+- [AIIDE星际争霸AI竞赛](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
+- [CIG星际争霸AI竞赛](https://sites.google.com/site/starcraftaic/)
+- [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
 ## 播客
 - ### 适合初学者的播客：
