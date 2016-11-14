@@ -150,6 +150,7 @@
 
 ## 给女友介绍机器学习
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+- [ ] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
 ## 一本深入，非技术的机器学习指南
 - [ ] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
@@ -179,6 +180,7 @@
 - [ ] [机器学习算法之旅](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [ ] [机器学习工程师需要知道的10种算法](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [比较监督学习算法](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+- [收集的最简化、可执行的机器学习算法](https://github.com/rushter/MLAlgorithms)
 
 ## 入门书籍
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
