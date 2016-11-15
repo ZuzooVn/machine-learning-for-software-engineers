@@ -129,6 +129,7 @@
 ## 机器学习概论
 - [ ] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [ ] [在罩子下的机器学习，博文简单明了地介绍了机器学习的原理](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
@@ -269,6 +270,7 @@
 - [ ] [开发者的机器学习](https://xyclade.github.io/MachineLearning/)
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [机器学习入门](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+- [ ] [为新手准备的机器学习入门教程](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
 - [ ] [机器学习自学资源](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [提升你的机器学习技能](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] 用机器学习让Hacker News更具可读性
