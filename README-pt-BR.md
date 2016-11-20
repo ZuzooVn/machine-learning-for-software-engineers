@@ -1,7 +1,10 @@
 ﻿# Top-down learning path: Machine Learning for Software Engineers
 Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-_Se você gostou deste projeto, por favor me dê uma estrela._ &#9733;
+_Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
+
+<a href="https://twitter.com/intent/tweet?text=Plano%20de%20estudos%20para%20Engenheiros%20de%20Machine%20Learning%20https://github.com/ZuzooVn/machine-learning-for-software-engineers%20por%20@zuzoovn" target="_blank">
+Compartilhe no Twitter</a>
 
 ## O que é?
 
