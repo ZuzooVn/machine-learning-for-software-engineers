@@ -34,7 +34,7 @@
 - [机器学习概论](#机器学习概论)
 - [掌握机器学习](#掌握机器学习)
 - [有趣的机器学习](#有趣的机器学习)
-- [给女友介绍机器学习](#给女友介绍机器学习)
+- [机器学习简介](#机器学习简介)
 - [一本深入，非技术的机器学习指南](#一本深入-非技术的机器学习指南)
 - [故事与经验](#故事与经验)
 - [机器学习算法](#机器学习算法)
@@ -149,11 +149,11 @@
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 
-## 给女友介绍机器学习
+## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## 一本深入，非技术的机器学习指南
+## 一本深入、非技术性的机器学习指南
 - [ ] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [模型的评估，验证，复杂性与改进](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
@@ -266,6 +266,7 @@
 - [ ] [推理统计学概论](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ## 资源
+- [ ] [一份“非技术性”的机器学习与人工智能指南](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Hacker News的《软件工程师的机器学习》](https://news.ycombinator.com/item?id=12898718)
 - [ ] [开发者的机器学习](https://xyclade.github.io/MachineLearning/)
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
