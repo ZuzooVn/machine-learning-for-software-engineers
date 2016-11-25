@@ -134,9 +134,10 @@
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
 - [ ] [在罩子下的机器学习，博文简单明了地介绍了机器学习的原理](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - [ ] [机器学习是什么？它是如何工作的呢？](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [ ] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## 掌握机器学习
-- [ ] [掌握机器学习的枉法](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
@@ -272,6 +273,7 @@
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [机器学习入门](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [为新手准备的机器学习入门教程](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
+- [ ] [初学者如何自学机器学习](https://elitedatascience.com/learn-machine-learning)
 - [ ] [机器学习自学资源](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [提升你的机器学习技能](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] 用机器学习让Hacker News更具可读性
@@ -368,7 +370,7 @@
 - [ ] [机器学习面试问题有哪些相同的？](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [什么是评价一个机器学习研究者的最好的问题？](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [机器学习面试问题大搜集](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-
+- [ ] [121个需要掌握的问题与回答](https://learn.elitedatascience.com/mlqa-welcome)
 
 
 ## 我崇拜的公司
