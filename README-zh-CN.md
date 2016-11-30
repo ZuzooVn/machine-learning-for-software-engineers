@@ -301,6 +301,7 @@
         - [2016年10月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
     - 算法
         - [2016年9月](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
+        - [2016年10月](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
 - [全面的数据科学家的资源](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind的人工智能资源](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [令人惊叹的机器学习](https://github.com/josephmisiti/awesome-machine-learning)
