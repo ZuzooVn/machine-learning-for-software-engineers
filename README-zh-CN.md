@@ -250,6 +250,7 @@
 - [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 - [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+- [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
 
 ## MOOC
 - [ ] [Udacity的机器学习导论](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -302,9 +303,10 @@
         - [2016年8月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
         - [2016年9月](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
         - [2016年10月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
+        - [2016年11月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-b499e4213a34#.7k39i08tv)
     - 算法
         - [2016年9月](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
-        - [2016年10月](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
+        - [2016年10月-11月](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
 - [全面的数据科学家的资源](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind的人工智能资源](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [令人惊叹的机器学习](https://github.com/josephmisiti/awesome-machine-learning)
