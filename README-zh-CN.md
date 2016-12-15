@@ -251,6 +251,7 @@
 - [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 - [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
+- [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 ## MOOC
 - [ ] [Udacity的机器学习导论](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -280,6 +281,7 @@
 - [ ] [初学者如何自学机器学习](https://elitedatascience.com/learn-machine-learning)
 - [ ] [机器学习自学资源](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [提升你的机器学习技能](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
+- [ ] [一份'坦诚'的机器学习指南](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ib12a1yw5)
 - [ ] 用机器学习让Hacker News更具可读性
     - [视频](https://www.youtube.com/watch?v=O7IezJT9uSI)
     - [幻灯片](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
