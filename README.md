@@ -301,6 +301,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
