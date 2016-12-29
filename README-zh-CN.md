@@ -1,7 +1,7 @@
 # 自上而下的学习路线: 软件工程师的机器学习
 
 
-灵感来自 [谷歌面试学习手册](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
+灵感来源于 [谷歌面试学习手册](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
 
 
 > * 原文地址：[Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -11,7 +11,7 @@
 
 ## 这是？
 
-这是我为期数月的学习计划。我正要从一名移动软件开发者(自学，无计科文凭)转型成为一名机器学习工程师。
+这是本人为期数月的学习计划。我正要从一名移动端软件开发者(自学，无计科文凭)转型成为一名机器学习工程师。
 
 我的主要目标是找到一种以实践为主的学习方法，并为初学者抽象掉大多数的数学概念。
 这种学习方法是非传统的，因为它是专门为软件工程师所设计的自上而下、以结果为导向的学习方法。
@@ -55,7 +55,7 @@
 
 ## 为何要用到它？
 
-我会为了我未来的工作：机器学习工程师 而遵循这份计划。自从2011年以来，我一直进行着原生移动应用的开发(包括安卓、IOS和黑莓)。我有软件工程的文凭，但是没有计算机科学的文凭。我仅仅在大学的时候学习过一点基础科学，包括微积分、线性代数、离散数学、概率论与统计。
+我会为了我未来的工作————机器学习工程师 遵循这份计划。自2011年以来，我一直进行着移动端应用的开发(包括安卓、iOS与黑莓)。我有软件工程的文凭，但没有计算机科学的文凭。我仅仅在大学的时候学习过一点基础科学，包括微积分、线性代数、离散数学、概率论与统计。
 我认真思考过我在机器学习方面的兴趣:
 - [我能在没有计科硕士、博士文凭的情况下找到一份关于机器学习的工作吗？](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - 你当然可以，但是我想进入这个领域则无比艰难。
@@ -89,7 +89,7 @@
 
 我在这份计划中花多少时间？在每天的艰辛工作完成后，每晚花4小时。
 
-我已经在梦想的旅途中了。
+我已经在实现梦想的旅途中了。
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
@@ -98,7 +98,7 @@
 | USA as heck |
 
 ## 别认为自己不够聪明
-当我打开书本，发现他们告诉我多元微积分、统计与推理、线性代数是先决条件的时候，我变得非常沮丧。我不知道从哪儿开始…
+当我打开书本，发现他们告诉我多元微积分、统计与推理、线性代数是学习机器学习的先决条件的时候，我非常沮丧。因为我不知道从哪儿开始…
 
 - [我数学不好怎么办](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
 - [没有数学专业背景而理解机器学习算法的5种技巧](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
@@ -106,7 +106,7 @@
 
 ## 关于视频资源
 
-部分视频只有在Coursera、EdX的课程注册了才能观看。虽然是免费的，但是有时候这些课程不在开放的时间段，你可能需要等上一段时间(可能是好几个月)。我将会加上更多的公开的视频源来代替这些在线课程的视频。我很喜欢大学的讲座。
+部分视频只有在Coursera、EdX的课程注册了才能观看。虽然是免费的，但有些时间段这些课程并不开放，你可能需要等上一段时间(可能是好几个月)。我将会加上更多的公开的视频源来代替这些在线课程的视频。我很喜欢大学的讲座。
 
 ## 预备知识
 
@@ -149,6 +149,7 @@
 - [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
+- [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
 
 ## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
@@ -226,7 +227,8 @@
     - [在线教程](https://work.caltech.edu/telecourse.html)
 - [ ] [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-- [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
+- [ ] [使用TensorFlow(MEAP)进行机器学习](https://www.manning.com/books/machine-learning-with-tensorflow)
+    - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
 ## Kaggle知识竞赛
 - [ ] [Kaggle竞赛：怎么样，在哪里开始？](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -252,6 +254,9 @@
 - [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 - [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
 - [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [ ] [2016年的21个深度学习视频课程](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
+- [ ] [2016年的30个顶级的机器学习与人工智能视频教程 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
+- [ ] [程序员的深度学习实战](http://course.fast.ai/index.html)
 
 ## MOOC
 - [ ] [Udacity的机器学习导论](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -286,6 +291,8 @@
     - [视频](https://www.youtube.com/watch?v=O7IezJT9uSI)
     - [幻灯片](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [深入机器学习](https://github.com/hangtwenty/dive-into-machine-learning)
+- [ ] [软件工程师的{机器、深度}学习](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [ ] [深度学习入门](https://deeplearning4j.org/deeplearningforbeginners.html)
 - 大学中的机器学习课程
     - [ ] [斯坦福](http://ai.stanford.edu/courses/)
     - [ ] [机器学习夏令营](http://mlss.cc/)
