@@ -348,6 +348,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
+## Conferences
+- Neural Information Processing Systems ([NIPS](https://nips.cc/))
+- IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
+- IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
+- International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
+
 ## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
