@@ -54,6 +54,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
+- [Conferences](#conferences)
 - [Interview Questions](#interview-questions)
 - [My admired companies](#my-admired-companies)
 
