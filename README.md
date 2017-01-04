@@ -55,6 +55,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Games](#games)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
+- [Conferences](#conferences)
 - [Interview Questions](#interview-questions)
 - [My admired companies](#my-admired-companies)
 
@@ -384,6 +385,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Deep Learning News](http://news.startup.ml/)
 
 - [KDnuggets](http://www.kdnuggets.com/)
+
+## Conferences
+- Neural Information Processing Systems ([NIPS](https://nips.cc/))
+- IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
+- IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
+- International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
 
 ## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
