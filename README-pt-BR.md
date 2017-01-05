@@ -9,7 +9,7 @@ Compartilhe no Twitter</a>
 ## O que é?
 
 Este é meu plano de estudo para ir de desenvolvedor mobile (autodidata, sem diploma) para Engenheiro de Machine Learning.
-Meu principal objetivo era encontrar uma abordagem para estudar Machine Lerning, que é principalmente hands-on (aprender fazendo) e abstrair a maioria da matemática para o iniciante. Esta abordagem não é convencional porque ela é uma abordagem top-down e resultados-primeiro projetada para engenheiros de software.
+Meu principal objetivo era encontrar uma abordagem para estudar Machine Learning, que é principalmente hands-on (aprender fazendo) e abstrair a maioria da matemática para o iniciante. Esta abordagem não é convencional porque ela é uma abordagem top-down e resultados-primeiro projetada para engenheiros de software.
 
 Por favor, sinta-se livre para fazer qualquer contribuição que você achar que pode o tornar melhor.
 
