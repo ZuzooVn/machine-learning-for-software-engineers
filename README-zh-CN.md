@@ -278,6 +278,7 @@
 ## 资源
 - [ ] [一个月学会机器学习](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [一份“非技术性”的机器学习与人工智能指南](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
+- [ ] [Google机器学习工程师最佳实践教程](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Hacker News的《软件工程师的机器学习》](https://news.ycombinator.com/item?id=12898718)
 - [ ] [开发者的机器学习](https://xyclade.github.io/MachineLearning/)
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
