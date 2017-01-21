@@ -149,7 +149,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 ## Machine learning mastery
 - [x] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
-- [-] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
+- [ ] (IN PROGRESS) [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
