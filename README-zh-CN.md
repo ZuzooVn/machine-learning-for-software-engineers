@@ -106,7 +106,7 @@
 
 ## 关于视频资源
 
-部分视频只有在Coursera、EdX的课程注册了才能观看。虽然是免费的，但有些时间段这些课程并不开放，你可能需要等上一段时间(可能是好几个月)。我将会加上更多的公开的视频源来代替这些在线课程的视频。我很喜欢大学的讲座。
+部分视频只有在Coursera、EdX的课程注册了才能观看。虽然它们是免费的，但有些时间段这些课程并不开放，你可能需要等上一段时间(可能是好几个月)。我将会加上更多的公开的视频源来代替这些在线课程的视频。我很喜欢大学的讲座。
 
 ## 预备知识
 
@@ -174,7 +174,7 @@
 - [ ] [5个你成为机器学习工程师必须要掌握的技能](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [ ] [你是一个自学成才的机器学习工程师吗？你是怎么做的？花了多长时间？](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
 - [ ] [一个人如何成为一名优秀的机器学习工程师？](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
-- [ ] [一个关注于机器学习的学术假期](http://karlrosaen.com/ml/)
+- [ ] [一个专注于机器学习的学术假期](http://karlrosaen.com/ml/)
 
 ## 机器学习算法
 - [ ] [用“士兵”来表示10种机器学习算法](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
@@ -274,7 +274,9 @@
 - [ ] [使用TensorFlow创建深度学习应用](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [ ] [描述统计学概论](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [推理统计学概论](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-
+- [ ] [6.S094: 自动驾驶的深度学习](http://selfdrivingcars.mit.edu/)
+- [ ] [6.S191: 深度学习简介](http://introtodeeplearning.com/index.html)
+ 
 ## 资源
 - [ ] [一个月学会机器学习](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [一份“非技术性”的机器学习与人工智能指南](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
@@ -314,6 +316,7 @@
         - [2016年9月](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
         - [2016年10月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
         - [2016年11月](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-b499e4213a34#.7k39i08tv)
+        - [2016年](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.wtx2mchqn)
     - 算法
         - [2016年9月](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
         - [2016年10月-11月](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
