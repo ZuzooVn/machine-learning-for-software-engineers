@@ -50,14 +50,14 @@ Eu estou seguindo este plano para me preparar para meu próximo futuro emprego: 
 Pense sobre meu interesse em Machine Learning:
 
 - [Posso aprender e arrumar um emprego em Machine Learning sem estudar mestrado e Phd em Ciência da Computação?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - Você pode, mas isto é muito mais difícil do que quando eu entrei no campo. 
+    - *"Você pode, mas isto é muito mais difícil do que quando eu entrei no campo."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 
-- [Como eu consigo um emprego em Machine Learning como um programador de software que auto-estudou  Machine Learning, mas nunca teve a chance de usar isso no trabalho?] (https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - Estou contratando especialistas de Machine Learning para minha equipe e seu MOOC não vai conseguir para você o trabalho (há melhores notícias abaixo). Na verdade, muitas pessoas com um mestrado em Machine Learning não terão o emprego porque eles (e a maioria que tomaram MOOC) não têm uma compreensão profunda que vai me ajudar a resolver os meus problemas.
+- [Como eu consigo um emprego em Machine Learning como um programador de software que auto-estudou  Machine Learning, mas nunca teve a chance de usar isso no trabalho?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
+    - *"Estou contratando especialistas de Machine Learning para minha equipe e seu MOOC não vai conseguir para você o trabalho (há melhores notícias abaixo). Na verdade, muitas pessoas com um mestrado em Machine Learning não terão o emprego porque eles (e a maioria que tomaram MOOC) não têm uma compreensão profunda que vai me ajudar a resolver os meus problemas."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 
 - [Que habilidades são necessárias para trabalhos de Machine Learning?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - Primeiramente, você precisa ter um decente background de Ciência da Computação/Matemática. ML é um tópico avançado, então a maioria dos livros didáticos assumem que você tem esse background. Por segundo, Machine Learning é um tema muito geral com várias sub especialidades que exigem habilidades únicas. Você pode querer procurar o currículo de um programa de MS em Machine Learning para ver o curso, o currículo e livro didático.
-    - Estatística, propabilidade, computação distribuída e estatística.
+    - *"Primeiramente, você precisa ter um decente background de Ciência da Computação/Matemática. ML é um tópico avançado, então a maioria dos livros didáticos assumem que você tem esse background. Por segundo, Machine Learning é um tema muito geral com várias sub especialidades que exigem habilidades únicas. Você pode querer procurar o currículo de um programa de MS em Machine Learning para ver o curso, o currículo e livro didático."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
+    - *"Estatística, propabilidade, computação distribuída e estatística."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
 Eu me encontro em tempos difíceis.
 
@@ -87,7 +87,7 @@ Eu estou na jornada.
 
 | ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
 |:---:|
-| USA as heck | 
+| USA as heck |
 
 ## Não sinta que não é inteligente o bastante
 Fico desencorajado por livros e cursos que me dizem que o quanto antes eu puder, cálculo multivariável, inferencial e álgebra linear são pré-requisitos. Ainda não sei como começar...
@@ -98,7 +98,7 @@ Fico desencorajado por livros e cursos que me dizem que o quanto antes eu puder,
 
 ## Sobre Video Resources
 
-Alguns vídeos estão disponíveis apenas registrando-se em uma classe Coursera ou EdX. É de graça, mas às vezes as classes já não estão em sessão, então você tem que esperar uns meses, se não, não terá acesso. 
+Alguns vídeos estão disponíveis apenas registrando-se em uma classe Coursera ou EdX. É de graça, mas às vezes as classes já não estão em sessão, então você tem que esperar uns meses, se não, não terá acesso.
 Eu vou estar adicionando mais vídeos de fontes públicas e substituindo os vídeos do curso on-line ao longo do tempo. Eu gosto de usar palestras de universidade.
 
 ## Conhecimento prévio
@@ -181,7 +181,7 @@ Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, fa�
 	- [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
-## Competições de conhecimento Kaggle 
+## Competições de conhecimento Kaggle
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
@@ -204,7 +204,7 @@ Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, fa�
 	- [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 
 ## Pesquisas
-- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
+- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)

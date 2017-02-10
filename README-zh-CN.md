@@ -58,12 +58,12 @@
 我会为了我未来的工作————机器学习工程师 遵循这份计划。自2011年以来，我一直进行着移动端应用的开发(包括安卓、iOS与黑莓)。我有软件工程的文凭，但没有计算机科学的文凭。我仅仅在大学的时候学习过一点基础科学，包括微积分、线性代数、离散数学、概率论与统计。
 我认真思考过我在机器学习方面的兴趣:
 - [我能在没有计科硕士、博士文凭的情况下找到一份关于机器学习的工作吗？](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - 你当然可以，但是我想进入这个领域则无比艰难。
+    - *"你当然可以，但是我想进入这个领域则无比艰难。"* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 - [我是一名软件工程师，我自学了机器学习，我如何在没有相关经验的情况下找到一份关于机器学习的工作？](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - 我正在为我的团队招聘机器学习专家，但你的MOOC并不会给你带来工作机会。事实上，大多数机器学习方向的硕士也并不会得到工作机会，因为他们（与大多数上过MOOC的人一样）并没有深入地去理解。他们都没法帮助我的团队解决问题。
+    - *"我正在为我的团队招聘机器学习专家，但你的MOOC并不会给你带来工作机会。事实上，大多数机器学习方向的硕士也并不会得到工作机会，因为他们（与大多数上过MOOC的人一样）并没有深入地去理解。他们都没法帮助我的团队解决问题。"* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 - [找一份机器学习相关的工作需要掌握怎样的技能？](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - 首先，你得有正儿八经的计科或数学专业背景。ML是一个比较先进的课题，大多数的教材都会直接默认你有以上背景。其次，机器学习是一个集成了许多子专业的奇技淫巧的课题，你甚至会想看看MS的机器学习课程，去看看他们的授课、课程和教材。
-    - 统计，假设，分布式计算，然后继续统计。
+    - *"首先，你得有正儿八经的计科或数学专业背景。ML是一个比较先进的课题，大多数的教材都会直接默认你有以上背景。其次，机器学习是一个集成了许多子专业的奇技淫巧的课题，你甚至会想看看MS的机器学习课程，去看看他们的授课、课程和教材。"* [Uri](http://softwareengineering.stackexchange.com/a/79717)
+    - *"统计，假设，分布式计算，然后继续统计。"* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
 我深陷困境。
 
