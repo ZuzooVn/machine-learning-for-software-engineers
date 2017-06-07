@@ -307,6 +307,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
+- [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
