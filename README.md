@@ -134,7 +134,7 @@ Each subject does not require a whole day to be able to understand it fully, and
 Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
 
 # Motivation
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
