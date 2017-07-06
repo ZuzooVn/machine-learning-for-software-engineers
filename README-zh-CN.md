@@ -48,6 +48,7 @@
 - [游戏](#游戏)
 - [播客](#播客)
 - [社区](#社区)
+- [相关会议](#相关会议)
 - [面试问题](#面试问题)
 - [我崇拜的公司](#我崇拜的公司)
 
@@ -150,6 +151,7 @@
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
+- [ ] [Part 7: 使用生成式对抗网络创造 8 像素艺术](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
 
 ## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
@@ -186,26 +188,26 @@
 - [收集的最简化、可执行的机器学习算法](https://github.com/rushter/MLAlgorithms)
 
 ## 入门书籍
-- [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
-- [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
-- [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
+- [ ] [《Data Smart: Using Data Science to Transform Information into Insight》第 1 版](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
+- [ ] [《Data Science for Business: What you need to know about data mining and data analytic-thinking》](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
+- [ ] [《Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die》](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
 ## 实用书籍
-- [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
+- [ ] [Hacker 的机器学习](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
-- [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
+- [ ] [Python 机器学习](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
     - [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
-- [ ] [Programming Collective Intelligence: Building Smart Web 2.0 Applications](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications-ebook/dp/B00F8QDZWG)
-- [ ] [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
+- [ ] [集体智慧编程: 创建智能 Web 2.0 应用](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications-ebook/dp/B00F8QDZWG)
+- [ ] [机器学习: 算法视角，第二版](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
     - [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
     - [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
-- [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
+- [ ] [Python 机器学习简介: 数据科学家指南](http://shop.oreilly.com/product/0636920030515.do)
     - [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
-- [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
+- [ ] [数据挖掘: 机器学习工具与技术实践，第 3 版](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
     - Teaching material
-        - [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
-        - [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
+        - [1-5 章幻灯片(zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
+        - [6-8 章幻灯片(zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
 - [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
     - [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 - [ ] [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
@@ -214,18 +216,18 @@
     - [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
     - [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
     - [视频](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+- [ ] [使用 Python 构建机器学习系统](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
     - [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
-- [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+- [ ] [学习 scikit-learn: 用 Python 进行机器学习](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
     - [GitHub repository](https://github.com/gmonce/scikit-learn-book)
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [ ] [Probabilistic Graphical Models: Principles and Techniques](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193)
 - [ ] [Machine Learning: Hands-On for Developers and Technical Professionals](https://www.amazon.com/Machine-Learning-Hands-Developers-Professionals/dp/1118889061)
     - [Machine Learning Hands-On for Developers and Technical Professionals review](https://blogs.msdn.microsoft.com/querysimon/2015/01/01/book-review-machine-learning-hands-on-for-developers-and-technical-professionals/)
     - [GitHub repository](https://github.com/jasebell/mlbook)
-- [ ] [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
+- [ ] [从数据中学习](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
     - [在线教程](https://work.caltech.edu/telecourse.html)
-- [ ] [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+- [ ] [强化学习——简介(第 2 版)](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [使用TensorFlow(MEAP)进行机器学习](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
@@ -238,9 +240,9 @@
 ## 系列视频
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
-- [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-- [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
-- [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
+- [ ] [Josh Gordon 的机器学习菜谱](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [ ] [在 30 分钟以内了解机器学习的一切](https://vimeo.com/43547079)
+- [ ] [一份友好的机器学习简介](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
     - [视频](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
@@ -249,11 +251,11 @@
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
     - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
     - [博客](http://blog.kaggle.com/author/kevin-markham/)
-- [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
-- [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
+- [ ] [播放清单 - YouTuBe 上最热门的机器学习、神经网络、深度学习视频](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
+- [ ] [16 个必看的机器学习教程](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 - [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
-- [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [ ] [神经网络课程 - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - [ ] [2016年的21个深度学习视频课程](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [2016年的30个顶级的机器学习与人工智能视频教程 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] [程序员的深度学习实战](http://course.fast.ai/index.html)
@@ -267,7 +269,7 @@
     - [视频](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [复习Coursera机器学习](https://rayli.net/blog/data/coursera-machine-learning-review/)
     - [Coursera的机器学习路线图](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
-- [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
+- [ ] [机器学习提纯](https://code.tutsplus.com/courses/machine-learning-distilled)
 - [ ] [BigML training](https://bigml.com/training)
 - [ ] [Coursera的神经网络课程](https://www.coursera.org/learn/neural-networks)
     - 由Geoffrey Hinton（神经网络的先驱）执教
@@ -296,6 +298,7 @@
 - [ ] [深入机器学习](https://github.com/hangtwenty/dive-into-machine-learning)
 - [ ] [软件工程师的{机器、深度}学习](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [ ] [深度学习入门](https://deeplearning4j.org/deeplearningforbeginners.html)
+- [ ] [深度学习基础](https://github.com/pauli-space/foundations_for_deep_learning)
 - 大学中的机器学习课程
     - [ ] [斯坦福](http://ai.stanford.edu/courses/)
     - [ ] [机器学习夏令营](http://mlss.cc/)
@@ -326,10 +329,10 @@
 - [CreativeAi的机器学习](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## 成为一名开源贡献者
-- [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
-- [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
-- [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
-- [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+- [ ] [tensorflow/magenta: Magenta: 用机器智能生成音乐与艺术](https://github.com/tensorflow/magenta)
+- [ ] [tensorflow/tensorflow: 使用数据流图进行计算进行可扩展的机器学习](https://github.com/tensorflow/tensorflow)
+- [ ] [cmusatyalab/openface: 使用深层神经网络进行面部识别](https://github.com/cmusatyalab/openface)
+- [ ] [tensorflow/models/syntaxnet: 神经网络模型语法](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
 ## 游戏
 - [Halite：AI编程游戏](https://halite.io/)
@@ -378,6 +381,14 @@
 - [Deep Learning News](http://news.startup.ml/)
 
 - [KDnuggets](http://www.kdnuggets.com/)
+
+## 相关会议
+  - ([NIPS](https://nips.cc/))
+  - ([ICLR](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1))
+  - ([AAAI](http://www.aaai.org/Conferences/AAAI/aaai17.php))
+  - ([IEEE CIG](http://www.ieee-cig.org/))
+  - ([IEEE ICMLA](http://www.icmla-conference.org/))
+  - ([ICML](https://2017.icml.cc/))
 
 ## 面试问题
 - [ ] [如何准备机器学习职位的面试](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
