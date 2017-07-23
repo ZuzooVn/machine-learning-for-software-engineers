@@ -113,10 +113,10 @@
 
 这个小章节是一些在每日计划开始前我想去了解的一些预备知识与一些有趣的信息。
 
-- [X] [Data Analytics，Data Analysis，数据挖掘，数据科学，机器学习，大数据的区别是什么？](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [X] [学习如何去学习](https://www.coursera.org/learn/learning-how-to-learn)
-- [X] [不要斩断锁链](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [X] [如何自学](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [x] [Data Analytics，Data Analysis，数据挖掘，数据科学，机器学习，大数据的区别是什么？](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [学习如何去学习](https://www.coursera.org/learn/learning-how-to-learn)
+- [x] [不要斩断锁链](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [x] [如何自学](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## 每日计划
 
@@ -125,11 +125,11 @@
 每天我都会从下面的列表中选一个出来，一遍又一遍的读，做笔记，练习，用Python或R语言实现它。
 
 # 动机
-- [X] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## 机器学习概论
-- [X] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [X] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [x] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
