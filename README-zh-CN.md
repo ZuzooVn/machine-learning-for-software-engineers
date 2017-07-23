@@ -130,12 +130,12 @@
 ## 机器学习概论
 - [x] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [x] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
-- [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
-- [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-- [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
-- [ ] [在罩子下的机器学习，博文简单明了地介绍了机器学习的原理](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
-- [ ] [机器学习是什么？它是如何工作的呢？](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
-- [ ] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
+- [x] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
+- [x] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+- [x] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+- [x] [在罩子下的机器学习，博文简单明了地介绍了机器学习的原理](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
+- [x] [机器学习是什么？它是如何工作的呢？](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [x] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## 掌握机器学习
 - [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
