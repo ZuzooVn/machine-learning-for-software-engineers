@@ -42,7 +42,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
 - [Inky Machine Learning](#inky-machine-learning)
-- [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-non-technical-guide)
+- [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Beginner Books](#beginner-books)
