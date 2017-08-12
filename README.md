@@ -42,7 +42,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
 - [Inky Machine Learning](#inky-machine-learning)
-- [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
+- [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-non-technical-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Beginner Books](#beginner-books)
@@ -166,7 +166,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine learning: an in-depth, non-technical guide
+## Machine Learning: An In-Depth Guide
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
