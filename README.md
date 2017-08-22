@@ -288,6 +288,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
+- [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 ## Resources
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
