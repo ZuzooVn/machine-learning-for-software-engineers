@@ -265,7 +265,7 @@
     - [复习Udacity机器学习导论](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity的监督学习、非监督学习及深入](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-- [ ] [Courserad的机器学习](https://www.coursera.org/learn/machine-learning)
+- [ ] [Coursera的机器学习](https://www.coursera.org/learn/machine-learning)
     - [视频](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [复习Coursera机器学习](https://rayli.net/blog/data/coursera-machine-learning-review/)
     - [Coursera的机器学习路线图](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
