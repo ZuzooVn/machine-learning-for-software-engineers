@@ -5,8 +5,8 @@
 
 
 > * 原文地址：[Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-* 原文作者：[ZuzooVn(Nam Vu)](https://github.com/ZuzooVn)
-* 翻译：[lsvih](https://github.com/lsvih)
+> * 原文作者：[ZuzooVn(Nam Vu)](https://github.com/ZuzooVn)
+> * 翻译：[lsvih](https://github.com/lsvih)
 
 
 ## 这是？
@@ -35,7 +35,7 @@
 - [掌握机器学习](#掌握机器学习)
 - [有趣的机器学习](#有趣的机器学习)
 - [机器学习简介](#机器学习简介)
-- [一本深入，非技术的机器学习指南](#一本深入-非技术的机器学习指南)
+- [一本深入的机器学习指南](#一本深入的机器学习指南)
 - [故事与经验](#故事与经验)
 - [机器学习算法](#机器学习算法)
 - [入门书籍](#入门书籍)
@@ -157,7 +157,7 @@
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2 : 监督学习与非监督学习](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## 一本深入、非技术性的机器学习指南
+## 一本深入的机器学习指南
 - [ ] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [模型的评估，验证，复杂性与改进](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
@@ -261,6 +261,7 @@
 - [ ] [程序员的深度学习实战](http://course.fast.ai/index.html)
 
 ## MOOC
+- [ ] [edX 的人工智能导论](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 - [ ] [Udacity的机器学习导论](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [复习Udacity机器学习导论](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity的监督学习、非监督学习及深入](https://www.udacity.com/course/machine-learning--ud262)
@@ -278,6 +279,7 @@
 - [ ] [推理统计学概论](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [6.S094: 自动驾驶的深度学习](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: 深度学习简介](http://introtodeeplearning.com/index.html)
+- [ ] [Coursera 深度学习教程](https://www.coursera.org/specializations/deep-learning)
  
 ## 资源
 - [ ] [一个月学会机器学习](https://elitedatascience.com/machine-learning-masterclass)
@@ -285,6 +287,7 @@
 - [ ] [Google机器学习工程师最佳实践教程](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Hacker News的《软件工程师的机器学习》](https://news.ycombinator.com/item?id=12898718)
 - [ ] [开发者的机器学习](https://xyclade.github.io/MachineLearning/)
+- [ ] [为人类🤖👶准备的机器学习](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [ ] [给开发者的关于机器学习的建议](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [机器学习入门](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [为新手准备的机器学习入门教程](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
@@ -299,6 +302,7 @@
 - [ ] [软件工程师的{机器、深度}学习](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [ ] [深度学习入门](https://deeplearning4j.org/deeplearningforbeginners.html)
 - [ ] [深度学习基础](https://github.com/pauli-space/foundations_for_deep_learning)
+- [ ] [机器学习思维导图/小抄](https://github.com/dformoso/machine-learning-mindmap)
 - 大学中的机器学习课程
     - [ ] [斯坦福](http://ai.stanford.edu/courses/)
     - [ ] [机器学习夏令营](http://mlss.cc/)
