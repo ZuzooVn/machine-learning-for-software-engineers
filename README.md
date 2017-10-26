@@ -367,6 +367,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Linear Digressions](http://lineardigressions.com/)
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
