@@ -270,6 +270,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+- []  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
 ## MOOC
 - [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
