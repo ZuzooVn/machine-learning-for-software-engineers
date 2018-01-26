@@ -333,9 +333,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
 - Monthly top 10 articles
     - [Machine Learning](https://medium.mybridge.co/search?q=%22Machine%20Learning%22)
-    - Algorithms
-        - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
-        - [October-November 2016](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
+    - [Algorithms](https://medium.mybridge.co/search?q=Algorithms)
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
