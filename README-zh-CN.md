@@ -404,7 +404,7 @@
 - [ ] [机器学习面试问题有哪些相同的？](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [什么是评价一个机器学习研究者的最好的问题？](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [机器学习面试问题大搜集](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-- [ ] [121个需要掌握的问题与回答](https://learn.elitedatascience.com/mlqa-welcome)
+- [ ] [121个需要掌握的问题与回答](https://elitedatascience.com/mlqa-reading-list)
 
 
 ## 我崇拜的公司
