@@ -415,7 +415,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-- [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
+- [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
 
 
 ## My admired companies
