@@ -14,13 +14,13 @@
 
 Inspiré par [Google Interview University](https://github.com/jwasham/google-interview-university).
 
-Traductions: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) 
+Traductions: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md) | [Français](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-fr-FR.md) 
 
 [Comment moi (Nam Vu) prévoit de devenir un ingénieur dans le domaine du Machine Learning ](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
 
 ## Qu'est-ce que c'est?
 
-Il s'agit d'un projet qui s'étend sur plusieurs mois, avec pour objectif de devenir ingénieur en Machine Learning en partant de mon expérience de développeur mobile (obtenu de manière autodidacte, sans diplôme).
+Il s'agit d'un projet qui s'étend sur plusieurs mois, avec pour objectif de devenir ingénieur en Machine Learning en partant de mon expérience de développeur mobile (de manière autodidacte, sans diplôme en Informatique).
 
 Mon objectif principal est d'élaborer une méthode pour apprendre le Machine Learning qui se base surtout sur la pratique et écarte au mieux l'aspect Mathématique pouvant rebuter les novices.
 C'est une approche non conventionnel car de type analyse-synthèse fondée d'abord à partir de résultats, elle est conçue du point de vue ingénierie logiciel.
@@ -53,31 +53,33 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 - [Séries vidéos](#video-series)
 - [MOOC](#mooc)
 - [Ressources](#resources)
-- [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
-- [Games](#games)
+- [Participer aux projets Open-source](#becoming-an-open-source-contributor)
+- [Jeux](#games)
 - [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Interview Questions](#interview-questions)
-- [My admired companies](#my-admired-companies)
+- [Communautés](#communities)
+- [Conférences](#conferences)
+- [Questions & Interview](#interview-questions)
+- [Entreprises que j'admire](#my-admired-companies)
 
 ---
 
-## Why use it?
+## Pourquoi l'utiliser?
 
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
-Think about my interest in machine learning:
-- [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - *"You can, but it is far more difficult than when I got into the field."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
-- [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - *"I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
-- [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - *"First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
-    - *"Probability, distributed computing, and Statistics."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+Je suis ce programme pour me préparer à mon futur métier, celui d'ingénieur en Machine learning. Je développe des applications mobile sur les plateformes Android, iOS et Blackberry depuis 2011. J'ai un diplôme en Ingénierie Logiciel mais pas en Informatique. J'ai également quelques bases en calcul, algèbre linéaire, Mathématiques discrètes, probabilités et statistiques grâce à mon parcours à l'Université.
 
-I find myself in times of trouble.
+En pensant à mon intérêt pour le Machine learning :
 
-AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
+- [Est-ce que je peux apprendre et engager une carrière professionnelle dans le Machine learning sans un Master ou un Doctorat en Informatique ?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
+    - *"C'est possible, mais ce sera bien plus difficile que lorsque je me suis orienter vers ce domaine."* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
+- [Comment puis-je obtenir un travail dans ce domaine en tant que développeur logiciel qui a appris le Machine learning en autonomie mais n'a jamais eu l'occasion de l'utiliser en milieu professionnel ?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
+    - *"Je ne recrute que des experts en Machine learning pour mon équipe et votre MOOC ne vous permettra pas d'obtenir ce travail (il y a quand même de bonnes nouvelles plus bas). En faite, beaucoup de gens avec un master en Machine learning n'auront pas nécessairement ce travail car ils (et la plupart des gens qui ont suivie une MOOC) n'ont pas une compréhension suffisamment précise pour répondre à mes problématiques."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
+- [Quelles sont les compétences requises pour travailler dans le domaine du Machine learning ?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
+    - *"D'abord, vous devez avoir une expérience correcte dans l'Informatique/les Mathématiques. Machine learning (ML) est un sujet complexe et la plupart des ouvrages attendent de vous que vous ayez déjà un lourd bagage technique. Ensuite ML est un vaste sujet qui se décline en beaucoup de sous-domaines dont chacune demande des compétences précises. Vous devriez vous renseigner sur le contenu d'un programme MS en Machine learning pour voir le cours, le programme et les manuels scolaires."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
+    - *"Probabilité, Calcul distribué et Statistiques."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+
+Je me retrouve alors dans une période de doute.
+
+AFAIK, [On distingue deux aspect dans le Machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
 - Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
 - Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
 
@@ -85,7 +87,7 @@ I think the best way for practice-focused methodology is something like ['practi
 
  It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## Comment s'en servir?
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
@@ -94,7 +96,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Follow me
+## Suivez-moi
 I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
@@ -114,14 +116,13 @@ I get discouraged from books and courses that tell me as soon as I open them tha
 - [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
 - [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
 
-## About Video Resources
+## Au sujet de nos vidéos
 
 Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
 are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
 from public sources and replacing the online course videos over time. I like using university lectures.
 
-## Prerequisite Knowledge
-
+## Les Connaissances Requises
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
 - [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
@@ -129,7 +130,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
-## The Daily Plan
+## Le Planning Journalier
 
 Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
 
@@ -138,7 +139,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 # Motivation
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
-## Machine learning overview
+## Découvrir le Machine learning
 - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
@@ -148,14 +149,14 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 - [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
-## Machine learning mastery
+## Maîtriser le Machine learning
 - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
-## Machine learning is fun
+## Le Machine learning c'est fun
 - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
 - [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
 - [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
@@ -169,14 +170,14 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine Learning: An In-Depth Guide
+## Machine Learning: Un Guide de A à Z
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
-## Stories and experiences
+## Parcours et expériences
 - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
 - [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
@@ -190,7 +191,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
-## Machine Learning Algorithms
+## Algorithmes de Machine Learning
 - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
@@ -199,12 +200,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
-## Beginner Books
+## Ouvrages pour débutants
 - [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
 - [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
 - [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
-## Practical Books
+## Livres pratique
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
@@ -244,12 +245,12 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
-## Kaggle knowledge competitions
+## Les Compétitions Kaggle
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
-## Video Series
+## Séries vidéos
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
@@ -298,7 +299,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
 - [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
-## Resources
+## Ressources
 - [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
@@ -343,7 +344,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
-## Games
+## Jeux
 - [Halite: A.I. Coding Game](https://halite.io/)
 - [Vindinium: A.I. Programming Challenge](http://vindinium.org/)
 - [General Video Game AI Competition](http://www.gvgai.net/)
@@ -356,7 +357,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 - [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
-## Becoming an Open Source Contributor
+## Participer aux projets Open-source
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
@@ -378,7 +379,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
 
-## Communities
+## Communautés
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
@@ -398,7 +399,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - [KDnuggets](http://www.kdnuggets.com/)
 
-## Conferences
+## Conférences
 - Neural Information Processing Systems ([NIPS](https://nips.cc/))
 - International Conference on Learning Representations ([ICLR](http://www.iclr.cc/doku.php?id=ICLR2017:main&redirect=1))
 - Association for the Advancement of Artificial Intelligence ([AAAI](http://www.aaai.org/Conferences/AAAI/aaai17.php))
@@ -408,7 +409,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
 - Association for Computational Linguistics ([ACL](http://acl2017.org/))
 
-## Interview Questions
+## Questions & Interview
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
 - [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
 - [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
