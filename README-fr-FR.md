@@ -75,33 +75,38 @@ En pensant à mon intérêt pour le Machine learning :
     - *"Je ne recrute que des experts en Machine learning pour mon équipe et votre MOOC ne vous permettra pas d'obtenir ce travail (il y a quand même de bonnes nouvelles plus bas). En faite, beaucoup de gens avec un master en Machine learning n'auront pas nécessairement ce travail car ils (et la plupart des gens qui ont suivie une MOOC) n'ont pas une compréhension suffisamment précise pour répondre à mes problématiques."* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 - [Quelles sont les compétences requises pour travailler dans le domaine du Machine learning ?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
     - *"D'abord, vous devez avoir une expérience correcte dans l'Informatique/les Mathématiques. Machine learning (ML) est un sujet complexe et la plupart des ouvrages attendent de vous que vous ayez déjà un lourd bagage technique. Ensuite ML est un vaste sujet qui se décline en beaucoup de sous-domaines dont chacune demande des compétences précises. Vous devriez vous renseigner sur le contenu d'un programme MS en Machine learning pour voir le cours, le programme et les manuels scolaires."* [Uri](http://softwareengineering.stackexchange.com/a/79717)
-    - *"Probabilité, Calcul distribué et Statistiques."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
+    - *"Probabilités, Calculs distribués et Statistiques."* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
 
 Je me retrouve alors dans une période de doute.
 
 AFAIK, [On distingue deux aspect dans le Machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
-- Practical Machine Learning: Il s'agit de faire des requêtes sur des bases de données, du nettoyage, écrire des scripts pour transformer les données, faire correspondre les programmes avec les bibliothèques adéquates et écrire du code sur mesure pour obtenir des réponses fiables capable de satisfaire des questions encore trop flou. 
-- Theoretical Machine Learning: This is about math and abstraction and idealized scenarios and limits and beauty and informing what is possible. It is a whole lot neater and cleaner and removed from the mess of reality.
+- Machine Learning en pratique: Il s'agit de faire des requêtes sur des bases de données, du nettoyage, écrire des scripts pour transformer les données, faire correspondre les programmes avec les bibliothèques adéquates et écrire du code sur mesure pour obtenir des réponses fiables capable de satisfaire des questions encore trop flou. On doit s'adapter à une réalité imparfaite, pleine d'aléas, où tout est en désordre.
+- Machine Learning en théorie: Ici on est en plein dans les Mathématiques et l'abstraction, on considère les cas idéaux sans se soucier de ce qui est réellement possible. Tout est bien plus ordonné et propre car on néglige les contraintes du réel.
 
-I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
+Je pense que la meilleure approche pour une méthodologie orientée sur la pratique ressemble à quelque chose comme 
+['pratique — apprentissage — pratique'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), ça signifie qu'on étudie d'abord des projets existants avec leurs problèmes et solutions (pratique) pour se familiariser avec les méthodes traditionnelles dans une discipline et peut-être également se familiariser avec une méthodologie propre à ce projet en particulier.
+Après avoir manipuler des cas élémentaires, il est temps d'ouvrir les livres et autres manuels pour étudier ce qui se passe réellement au niveau théorique, ce qui va ensuite donner plus de sens aux prochains essais dans la pratique. En effet, ce qu'on apprend via la théorie s'ajoutera à une sorte de *Boîte à Outils* englobant les connaissances pour résoudre tel ou tel problème pratique. Etudier la théorie permet aussi d'améliorer la compréhension des expériences basiques pour se construire des bases solides et donnera lieu à un apprentissage plus rapide des expériences d'un niveau plus pointu. 
 
- It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
+> *“Il faut d'abord apprendre la façon de faire, ensuite on peut faire à
+> sa façon.”*
+
+Pour moi c'est un plan sur le long terme qui me prendra certainement des années. Si vous êtes déjà familier avec tout ceci, vous aurez probablement besoin de moins de temps.
 
 ## Comment s'en servir?
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+Tout ce qui suis est un sommaire qui abordera le sujet dans les grandes ligne, je vous conseille de consulter chaque points, dans l'ordre, de haut en bas.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+Je profite au mieux de ce qu'offre la version GitHub de Markdown, pour inclure notamment un système des tâches à réaliser. J'utilise des cases à cocher, ce qui vous permet de garder un œil sur votre progression.
 
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+- [x] Créez une nouvelle branch pour pouvoir cocher des cases comme celle-ci. Il suffit d'ajouter un x entre les crochets [x].
+[Plus à propos de Markdown à la sauce GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Suivez-moi
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
+Je suis un Ingénieur Logiciel vietnamien, un véritable passionné et mon rêve est de pouvoir un jour travailler aux Etats-Unis.
 
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
+Combien de temps par jour ai-je travailler pendant ce programme? À peu près 4 heures/nuit après une bonne journée de boulot.
 
-I'm on the journey.
+Et l'aventure continue.
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
