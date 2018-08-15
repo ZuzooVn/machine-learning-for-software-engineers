@@ -280,7 +280,7 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - [ ] [21 Vidéos de Deep Learning, tutoriels et cours sur Youtube datant de 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [30 Meilleures vidéos, tutoriels et cours de Machine Learning et Intelligence Artificiel datant de 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
-- [ ]  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
+- [ ] [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
 ## MOOC
 - [ ] [edX's Introduction à l'Intelligence Artificielle (IA)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
@@ -298,7 +298,7 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
 - [ ] [BigML training](https://bigml.com/training)
 - [ ] [Neural Networks pour Machine Learning par Coursera](https://www.coursera.org/learn/neural-networks)
-    - Enseigné par Geoffrey Hinton, une pionnier dans le domaine des Neural Networks
+    - Enseigné par Geoffrey Hinton, une pionnier dans le domaine des réseaux de neurones. 
 - [ ] [Machine Learning - CS - Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [ ] [Applications créatives du Deep Learning par TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [ ] [Intro aux Statistiques descriptives](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
