@@ -18,7 +18,7 @@ Traductions: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-
 
 [Comment moi (Nam Vu) prévoit de devenir un ingénieur dans le domaine du Machine Learning ](https://www.codementor.io/zuzoovn/how-i-plan-to-become-a-machine-learning-engineer-a4metbcuk)
 
-## Qu'est-ce que c'est?
+##Qu'est-ce que c'est?
 
 Il s'agit d'un projet qui s'étend sur plusieurs mois, avec pour objectif de devenir ingénieur en Machine Learning en partant de mon expérience de développeur mobile (de manière autodidacte, sans diplôme en Informatique).
 
@@ -31,7 +31,7 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 
 ## Table des Matières
 
-- [Qu'est-ce que c'est?](#what-is-it)
+- [Qu'est-ce que c'est?](#Qu'est-ce-que-c'est?)
 - [Pourquoi l'utiliser?](#why-use-it)
 - [Comment s'en servir?](#how-to-use-it)
 - [Suivez-moi](#follow-me)
