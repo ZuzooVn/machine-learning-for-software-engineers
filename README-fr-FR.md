@@ -58,8 +58,8 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 - [Podcasts](#podcasts)
 - [Communautés](#communautés)
 - [Conférences](#conférences)
-- [Questions aux Entretiens](#interview-questions)
-- [Les Entreprises que j'admire](#my-admired-companies)
+- [Questions aux Entretiens](#questions-aux-entretiens)
+- [Les Entreprises que j'admire](#les-entreprises-que-jadmire)
 
 ---
 
