@@ -93,12 +93,12 @@ Après avoir manipuler des cas élémentaires, il est temps d'ouvrir les livres 
 Pour moi c'est un plan sur le long terme qui me prendra certainement des années. Si vous êtes déjà familier avec tout ceci, vous aurez probablement besoin de moins de temps.
 
 ## Comment s'en servir?
-Tout ce qui suis est un sommaire qui abordera le sujet dans les grandes ligne, je vous conseille de consulter chaque points, dans l'ordre, de haut en bas.
+Tout ce qui suis est un guide qui vous apprendra de manière progressive le Machine learning via les points qui sont listés plus bas, je vous conseille de consulter chaque points, dans l'ordre, de haut en bas.
 
-Je profite au mieux de ce qu'offre la version GitHub de Markdown, pour inclure notamment un système des tâches à réaliser. J'utilise des cases à cocher, ce qui vous permet de garder un œil sur votre progression.
+Je profite au mieux de ce qu'offre la version GitHub de Markdown, pour inclure notamment un système de tâches à réaliser. J'utilise des cases à cocher, ce qui vous permet de garder un œil sur votre progression.
 
 
-- [x] Créez une nouvelle branch pour pouvoir cocher des cases comme celle-ci. Il suffit d'ajouter un x entre les crochets [x].
+- [x] Créez une nouvelle branche pour pouvoir cocher des cases comme celle-ci. Il suffit d'ajouter un x entre les crochets [x].
 [Plus à propos de Markdown à la sauce GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Suivez-moi
@@ -115,9 +115,9 @@ Et l'aventure continue.
 | USA as heck |
 
 ## Ne vous laissez pas abattre
-J'ai été décourager plusieurs fois devant les cours et ouvrages qui me signalent d'entré de jeu que la maîtrise des fonctions de plusieurs variables, de l'inférence statistique et de l'algèbre linéaire sont des prérequis. Et je ne sais toujours pas par où commencer...
+J'ai été décourager plusieurs fois devant les cours et ouvrages qui me signalaient d'entré de jeu que la maîtrise de concept tels que les fonctions de plusieurs variables, l'inférence statistique et l'algèbre linéaire sont obligatoires pour comprendre le Machine Learning. Et je ne sais toujours pas par où commencer...
 
-Même si tout ces termes peuvent rebuter il ne faut pas se démotiver pour autant,  , voici quelques pistes pour démarrer néanmoins votre apprentissage :
+Même si tout ces termes peuvent rebuter il ne faut pas se démotiver pour autant, voici quelques pistes pour démarrer votre apprentissage :
 - [Et si je ne suis pas bon en Mathématique ?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
 - [5 Techniques Pour Comprendre les Algorithme de Machine Learning Sans Expériences en Mathématiques](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
 - [Comment apprendre le Machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
@@ -127,7 +127,7 @@ Même si tout ces termes peuvent rebuter il ne faut pas se démotiver pour autan
 ## Au sujet de nos vidéos
 
 Certaines vidéos ne sont disponible qu'en s'inscrivant aux cours de Coursera ou EdX. Ces outils sont gratuit mais il arrive que les cours soient indisponible et vous devez patienter quelques mois pour y avoir accès.
-Pour limiter ce problème, je vais ajouter davantage de vidéo provenant de sources publiques pour remplacer au fil du temps les cours en ligne en prenant par exemple des cours magistraux d'Universités.
+Pour limiter ce problème, je vais ajouter davantage de vidéos provenant de sources publiques pour remplacer au fil du temps les cours en ligne en prenant par exemple des cours magistraux d'Universités.
 
 ## Les Connaissances Requises
 Je vais lister dans cette courte section les aptitudes et informations intéressantes que je voulais apprendre avant de commencer mon programme quotidien en Machine learning.
