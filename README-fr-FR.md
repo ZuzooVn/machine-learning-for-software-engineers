@@ -35,7 +35,7 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 - [Pourquoi l'utiliser?](#why-use-it)
 - [Comment s'en servir?](#how-to-use-it)
 - [Suivez-moi](#follow-me)
-- [Ne vous laissez pas intimider](#dont-feel-you-arent-smart-enough)
+- [Ne vous laissez pas abattre](#dont-feel-you-arent-smart-enough)
 - [Au sujet de nos vidéos](#about-video-resources)
 - [Les Connaissances Requises](#prerequisite-knowledge)
 - [Le Planning Journalier](#the-daily-plan)
@@ -114,104 +114,107 @@ Et l'aventure continue.
 |:---:|
 | USA as heck |
 
-## Ne vous laissez pas intimider
-I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
+## Ne vous laissez pas abattre
+J'ai été décourager plusieurs fois devant les cours et ouvrages qui me signalent d'entré de jeu que la maîtrise des fonctions de plusieurs variables, de l'inférence statistique et de l'algèbre linéaire sont des prérequis. Et je ne sais toujours pas par où commencer...
 
-- [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
-- [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
+Même si tout ces termes peuvent rebuter il ne faut pas se démotiver pour autant,  , voici quelques pistes pour démarrer néanmoins votre apprentissage :
+- [Et si je ne suis pas bon en Mathématique ?](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
+- [5 Techniques Pour Comprendre les Algorithme de Machine Learning Sans Expériences en Mathématiques](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
+- [Comment apprendre le Machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
+
+> *Ne jamais baisser les bras! L'échec et le rejet ne sont que les premières étapes du succès.* - **Jim Valvano**
 
 ## Au sujet de nos vidéos
 
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
+Certaines vidéos ne sont disponible qu'en s'inscrivant aux cours de Coursera ou EdX. Ces outils sont gratuit mais il arrive que les cours soient indisponible et vous devez patienter quelques mois pour y avoir accès.
+Pour limiter ce problème, je vais ajouter davantage de vidéo provenant de sources publiques pour remplacer au fil du temps les cours en ligne en prenant par exemple des cours magistraux d'Universités.
 
 ## Les Connaissances Requises
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+Je vais lister dans cette courte section les aptitudes et informations intéressantes que je voulais apprendre avant de commencer mon programme quotidien en Machine learning.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [ ] [Quelle sont les différences entre Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, et Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [ ] [Apprendre comment apprendre](https://www.coursera.org/learn/learning-how-to-learn)
+- [ ] [Ne brisez pas la chaîne](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [ ] [Comment apprendre par vous même](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## Le Planning Journalier
 
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
+Chaque matière ne demandent pas une journée entière pour être assimilée, vous pouvez en faire plusieurs par jour.
 
-Each day I take one subject from the list below, read it cover to cover, take notes, do the exercises and write an implementation in Python or R.
+Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis entièrement, je prends des notes et fais les exercices. Pour finir, j'écris une première implémentation en Python ou en R. 
 
 # Motivation
-- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [ ] [Dream](https://www.youtube.com/watch?v=iwnIrKyXtSw)
 
 ## Découvrir le Machine learning
-- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
-- [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
-- [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-- [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
-- [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
-- [ ] [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
-- [ ] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
+- [ ] [Introduction au Machine Learning en image](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [ ] [Un guide pour aborder le Machine Learning en douceur](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [Introduction au Machine Learning pour développeur](http://blog.algorithmia.com/introduction-machine-learning-developers/)
+- [ ] [Les bases du Machines Learning pour débutant](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+- [ ] [Comment expliquer le Machine Learning et le Data Mining aux non-initiés?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+- [ ] [Machine Learning: sous le capot. Blog post explique les principes du Machine Learning à monsieur Tout-le-monde. Simple et clair.](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
+- [ ] [Qu'est-ce que le Machine Learning et comment est-ce que ça fonctionne?](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
+- [ ] [Deep Learning - Une introduction toute simple](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Maîtriser le Machine learning
-- [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
-- [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
-- [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
-- [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+- [ ] [Les méthodes pour maîtriser le Machine Learning](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [ ] [Le Machine Learning pour les programmeurs](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [ ] [Machine Learning appliquée avec Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
+- [ ] [Mini-cours de Python pour le Machine Learning](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+- [ ] [Mini-cours sur les Algorithmes de Machine Learning](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
 ## Le Machine learning c'est fun
-- [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-- [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
-- [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
-- [ ] [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
-- [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
-- [ ] [Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
-- [ ] [Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
-- [ ] [Part 8: How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+- [ ] [Machine Learning c'est fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [ ] [Partie 2: Utiliser le Machine Learning pour generer des niveaux de Super Mario Maker](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+- [ ] [Partie 3: Deep Learning et Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [ ] [Partie 4: Reconnaissance faciale moderne grâce au Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
+- [ ] [Partie 5: La traduction de langue grâce au Deep Learning et la magie des suites.](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
+- [ ] [Partie 6: Comment faire de la reconnaissance vocale avec le Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
+- [ ] [Partie 7: Exploiter les Réseaux antagonistes génératifs pour faire du Pixel Art 8-bit](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
+- [ ] [Partie 8: Comment tromper volontairement les réseaux de neurones](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 
 ## [Inky Machine Learning](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)
-- [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
-- [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
+- [ ] [Partie 1: Qu'est-ce que le Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
+- [ ] [Partie 2: L'apprentissage supervisée et non-supervisée](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
 ## Machine Learning: Un Guide de A à Z
-- [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
-- [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
-- [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
-- [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
-- [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
+- [ ] [ Aperçu, objectifs, type d'apprentissage et algorithmes](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+- [ ] [Sélection de Données, préparation et modélisation](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
+- [ ] [Evaluation de model, validation, complexité et amélioration](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
+- [ ] [Performance de model et analyse d'erreur](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
+- [ ] [Apprentissage non-supervisée, matières similaires et Machine Learning dans la pratique](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## Parcours et expériences
-- [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
-- [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
-- [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
-- [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
-- [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
-- [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
-    - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
-    - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
-- [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [ ] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
-- [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
-- [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
+- [ ] [Machine Learning en une semaine](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+- [ ] [Machine Learning en une année](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
+- [ ] [Comment j'ai écris mon premier programme de Machine Learning en 3 jours](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
+- [ ] [Learning Path : Votre mentor pour devenir un expert en Machine Learning](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
+- [ ] [Vous aussi pouvez devenir une grande figure du Machine Learning! Sans Doctorat](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
+- [ ] Comment devenir un Data Scientist en 6 mois: Une approche non-conventionnelle pour organiser votre carrière.
+    - [Vidéo](https://www.youtube.com/watch?v=rIofV14c0tc)
+    - [Diapositive](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
+- [ ] [5 compétences nécessaire pour devenir Ingénieur en Machine Learning](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+- [ ] [Êtes-vous un Ingénieur en Machine Learning autodidacte ? Si oui, comment avez-vous fait et combien de temps est-ce que cela vous a pris ?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
+- [ ] [Comment devenir un bon Ingénieur en Machine Learning ?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
+- [ ] [Un apprentissage sabbatique centré sur le Machine Learning](http://karlrosaen.com/ml/)
 
 ## Algorithmes de Machine Learning
-- [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
-- [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-- [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
-- [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-- [ ] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
-- [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
-- [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
+- [ ] [10 Algorithme de Machine Learning expliqués à un ‘Soldat’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
+- [ ] [Top 10 des algorithmes de Data Mining en pur Anglais](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [ ] [10 Termes de Machine Learning expliqués en Anglais basique](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
+- [ ] [Un tour d'horizon des algorithmes de Machine Learning](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [ ] [Les 10 algorithmes de Machine Learning que les Ingénieurs doivent absolument connaître](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
+- [ ] [Comparer les algorithmes d'apprentissages supervisées](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
+- [ ] [Algorithmes de Machine Learning: Une collection d'implémentations minimales et claires](https://github.com/rushter/MLAlgorithms)
 
 ## Ouvrages pour débutants
-- [ ] [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
-- [ ] [Data Science for Business: What you need to know about data mining and data­ analytic-thinking](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
-- [ ] [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
+
+- [ ] [Data Smart: Utiliser la Science des Données pour transformer l'information en connaissance 1ère Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
+- [ ] [La Science des données pour le Commerce: Ce que vous devez savoir sur le Data Mining et la pensée analytique des données](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
+- [ ] [Predictive Analytics: Le pouvoir de prédire qui va cliquer, acheter, mentir ou mourir](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
 ## Livres pratique
-- [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
+- [ ] [Machine Learning pour les Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
@@ -220,21 +223,21 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282)
     - [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
     - [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
-- [ ] [Introduction to Machine Learning with Python: A Guide for Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
+- [ ] [Introduction au Machine Learning avec Python: Un Guide pour Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
     - [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques, Third Edition](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
-    - Teaching material
-        - [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
-        - [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
-- [ ] [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
+    - Documentation pédagogique
+        - [Diapositives pour Chapitre 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
+        - [Diapositives pour Chapitres 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
+- [ ] [Machine Learning en Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/)
     - [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
 - [ ] [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
     - [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
 - [ ] [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
     - [GitHub repository(R)](http://www-bcf.usc.edu/~gareth/ISL/code.html)
     - [GitHub repository(Python)](https://github.com/JWarmenhoven/ISLR-python)
-    - [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [ ] [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+    - [Vidéos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+- [ ] [Construire des systèmes de Machine Learning en Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
     - [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 - [ ] [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
     - [GitHub repository](https://github.com/gmonce/scikit-learn-book)
@@ -251,31 +254,31 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
 ## Les Compétitions Kaggle
-- [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
-- [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
-- [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
+- [ ] [Les compétitions Kaggle: Comment et par où commencer ?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
+- [ ] [Comment un débutant a utilisé de petits projets pour apprendre le Machine Learning et participer à Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
+- [ ] [Maîtriser Kaggle en participant sans cesse](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
 ## Séries vidéos
-- [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
+- [ ] [Machine Learning pour Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
-- [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-- [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
-- [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
-- [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [ ] [Recettes de Machine Learning avec Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [ ] [Tout ce dont vous avez besoin de savoir sur le Machine Learning en 30 minutes ou moins](https://vimeo.com/43547079)
+- [ ] [Une Introduction amicale au Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
+- [ ] [Toute les bases pour appliquer le Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
-    - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
+    - [Vidéo](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
     - [Resources](https://bigml.com/releases)
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-- [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [ ] [Machine learning en Python avec scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
     - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
     - [Blog](http://blog.kaggle.com/author/kevin-markham/)
 - [ ] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
-- [ ] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
+- [ ] [16 Nouveaux tutoriels à voir absolument, cours de Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
 - [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 - [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
 - [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [ ] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
-- [ ] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
+- [ ] [21 Vidéos de Deep Learning, tutoriels et cours sur Youtube datant de 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
+- [ ] [30 Meilleures vidéos, tutoriels et cours de Machine Learning et Intelligence Artificiel datant de 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 - [ ]  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
