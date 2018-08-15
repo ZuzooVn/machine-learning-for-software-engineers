@@ -1,4 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# Parcours d'Apprentissage de A à Z: Le Machine Learning pour Ingénieur Logiciel
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -58,8 +58,8 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 - [Podcasts](#podcasts)
 - [Communautés](#communities)
 - [Conférences](#conferences)
-- [Questions & Interview](#interview-questions)
-- [Entreprises que j'admire](#my-admired-companies)
+- [Questions aux Entretiens](#interview-questions)
+- [Les Entreprises que j'admire](#my-admired-companies)
 
 ---
 
@@ -283,74 +283,74 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - [ ]  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
 
 ## MOOC
-- [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
-- [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-    - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
-- [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
-- [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-- [ ] [Machine Learning & AI Foundations: Value Estimations](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
-- [ ] [Kaggle's Hands-On Data Science Education](https://www.kaggle.com/learn/overview)
-- [ ] [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-- [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
-    - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-    - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
-    - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
+- [ ] [edX's Introduction à l'Intelligence Artificielle (IA)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
+- [ ] [Intro au Machine Learning par Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [Revue de Intro au Machine Learning par Udacity](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
+- [ ] [Supervised, Unsupervised et Renforcement par Udacity](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] [Machine Learning Fondations: Aborder un cas d'étude](https://www.coursera.org/learn/ml-foundations)
+- [ ] [Machine Learning et IA Fondations: Estimation de valeurs](https://www.lynda.com/Data-Science-tutorials/Machine-Learning-Essential-Training-Value-Estimations/548594-2.html)
+- [ ] [Hands-On Data Science Education par Kaggle](https://www.kaggle.com/learn/overview)
+- [ ] [Programme professionnel pour l'Intelligence Artificel par Microsoft ](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+- [ ] [Machine Learning par Coursera](https://www.coursera.org/learn/machine-learning)
+    - [Vidéo seulement](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+    - [Revue de Machine Learning par Coursera](https://rayli.net/blog/data/coursera-machine-learning-review/)
+    - [Coursera: Le plan détaillé sur le Machine Learning](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
 - [ ] [BigML training](https://bigml.com/training)
-- [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-    - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
+- [ ] [Neural Networks pour Machine Learning par Coursera](https://www.coursera.org/learn/neural-networks)
+    - Enseigné par Geoffrey Hinton, une pionnier dans le domaine des Neural Networks
 - [ ] [Machine Learning - CS - Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-- [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
-- [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [ ] [Applications créatives du Deep Learning par TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+- [ ] [Intro aux Statistiques descriptives](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [ ] [Intro aux Inférences statistiques](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [6.S094: Deep Learning pour voitures autonomes](http://selfdrivingcars.mit.edu/)
+- [ ] [6.S191: Introduction au Deep Learning](http://introtodeeplearning.com/index.html)
+- [ ] [Deep Learning par Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ## Ressources
-- [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
-- [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
-- [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
-- [ ] [Programming Community Curated Resources for learning Machine Learning](https://hackr.io/tutorials/learn-machine-learning-ml)
-- [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
-- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
-- [ ] [Machine Learning for Humans🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-- [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
-- [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
-- [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
-- [ ] [How to Learn Machine Learning: The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
-- [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
+- [ ] [Le tout début de l'apprentissage en Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
+- [ ] [Apprendre le Machine Learning en un mois seulement](https://elitedatascience.com/machine-learning-masterclass)
+- [ ] [Le Guide accessible du Machine Learning et de l'Intelligence Artificiel](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
+- [ ] [Les ressources conservées par un communauté de programmeur pour apprendre le Machine Learning](https://hackr.io/tutorials/learn-machine-learning-ml)
+- [ ] [Livre des meilleures pratiques en Machine Learning par Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [ ] [Machine Learning pour les Ingénieurs Logiciel sur Hacker News](https://news.ycombinator.com/item?id=12898718)
+- [ ] [Machine Learning pour Développeurs](https://xyclade.github.io/MachineLearning/)
+- [ ] [Machine Learning pour les Humains🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+- [ ] [Conseils de Machine Learning pour Développeurs](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
+- [ ] [Machine Learning pour les nuls](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+- [ ] [Commencer en Machine Learning: Pour tout les niveaux de débutant à master](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
+- [ ] [Comment apprendre le Machine Learning: La méthode autodidacte](https://elitedatascience.com/learn-machine-learning)
+- [ ] [Ressource pour étudier le Machine Learning soi-même](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-- [ ] [An Honest Guide to Machine Learning](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ib12a1yw5)
-- [ ] Enough Machine Learning to Make Hacker News Readable Again
+- [ ] [Un Guide sincère sur le Machine Learning](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ib12a1yw5)
+- [ ] Assez de Machine Learning pour rendre sa lisibilité à Hacker News 
     - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
-    - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
-- [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-- [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
-- [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
-- [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
-- [ ] [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
-- Machine Learning courses in Universities
+    - [Diapositive](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
+- [ ] [Plonger dans le Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [ ] [{Machine, Deep} Apprentissage pour ingénieurs logiciel](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [ ] [Deep Learning pour débutant](https://deeplearning4j.org/deeplearningforbeginners.html)
+- [ ] [Les bases du Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
+- [ ] [Machine Learning Carte mentale / Aide mémoire](https://github.com/dformoso/machine-learning-mindmap)
+- Cours de Machine Learning dans les Universités
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
     - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
-- Flipboard Topics
+- Sujets Flipboard
     - [Machine learning](https://flipboard.com/topic/machinelearning)
     - [Deep learning](https://flipboard.com/topic/deeplearning)
     - [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
-- Medium Topics
+- Sujets Medium
     - [Machine learning](https://medium.com/tag/machine-learning/latest)
     - [Deep learning](https://medium.com/tag/deep-learning)
     - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
-- Monthly top 10 articles
+- Top 10 Mensuel des articles
     - [Machine Learning](https://medium.mybridge.co/search?q=%22Machine%20Learning%22)
     - [Algorithms](https://medium.mybridge.co/search?q=Algorithms)
-- [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
-- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
+- [Liste exhaustive de ressources sur la Sciences des données](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
+- [Ressources sur l'Intelligence Articificiel par DigitalMind](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [Machine Learning par CreativeAi](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## Jeux
 - [Halite: A.I. Coding Game](https://halite.io/)
@@ -372,19 +372,19 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
 ## Podcasts
-- ### Podcasts for Beginners:
+- ### Podcasts pour Débutant:
     - [Talking Machines](http://www.thetalkingmachines.com/)
     - [Linear Digressions](http://lineardigressions.com/)
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
     - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
-- ### "More" advanced podcasts
+- ### "Plus" de podcasts pour aller plus loin
     - [Partially Derivative](http://partiallyderivative.com/)
     - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
     - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
 
-- ### Podcasts to think outside the box:
+- ### Podcasts pour sortir des sentiers battus:
     - [Data Stories](http://datastori.es/)
 
 ## Communautés
@@ -417,18 +417,18 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
 - Association for Computational Linguistics ([ACL](http://acl2017.org/))
 
-## Questions & Interview
-- [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
-- [ ] [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
-- [ ] [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
-- [ ] [Top 50 Machine learning Interview questions & Answers](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
-- [ ] [Machine Learning Engineer interview questions](https://resources.workable.com/machine-learning-engineer-interview-questions)
-- [ ] [Popular Machine Learning Interview Questions](http://www.learn4master.com/machine-learning/popular-machine-learning-interview-questions)
-- [ ] [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
-- [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
-- [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-- [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
+## Questions aux Entretiens
+- [ ] [Comment se préparer à un entretien sur le Machine Learning](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
+- [ ] [40 Questions posées aux Startups de Machine Learning / Science des données durant un entretien](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
+- [ ] [21 Questions et réponse en Sciences des données à connaître absolument pour un entretien](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+- [ ] [Top 50 des questions réponses sur le Machine learning en entretien](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
+- [ ] [Questions d'ingénieur sur le Machine Learning durant un entretien](https://resources.workable.com/machine-learning-engineer-interview-questions)
+- [ ] [Questions récurrentes lors des entretiens en Machine Learning](http://www.learn4master.com/machine-learning/popular-machine-learning-interview-questions)
+- [ ] [Quelles sont les questions souvent posées lors des entretiens en Machine Learning?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
+- [ ] [Quelles sont les meilleures question à poser en entretien pour estimer le niveau d'un chercheur en Machine Learning?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
+- [ ] [Recueil de questions sur le Machine Learning en entretien](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
+- [ ] [121 Questions et réponses essentielles en Machine Learning ](https://elitedatascience.com/mlqa-reading-list)
 
 
-## My admired companies
+## Les Entreprises que j'admire
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
