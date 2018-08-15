@@ -31,7 +31,7 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 
 ## Table des Matières
 
-- [Qu'est-ce que c'est?](#Qu'est-ce-que-c'est?)
+- [Qu'est-ce que c'est?](#qu-est-ce-que-c-est)
 - [Pourquoi l'utiliser?](#why-use-it)
 - [Comment s'en servir?](#how-to-use-it)
 - [Suivez-moi](#follow-me)
@@ -57,7 +57,7 @@ Toute contributions pouvant améliorer le projet est la bienvenue.
 - [Jeux](#games)
 - [Podcasts](#podcasts)
 - [Communautés](#communities)
-- [Conférences](#conferences)
+- [Conférences](#conférences)
 - [Questions aux Entretiens](#interview-questions)
 - [Les Entreprises que j'admire](#my-admired-companies)
 
