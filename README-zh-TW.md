@@ -1,17 +1,17 @@
 # 自上而下的學習路線：軟體工程師的機器學習
 
 
-靈感來源於[谷歌面試學習手冊]（https://github.com/jwasham/google-interview-university/blob/master/README-cn.md）
+靈感來源於[谷歌面試學習手冊](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
 
 
 > * 原文地址：[軟體工程師的機器學習](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-> * 原文作者：[ZuzooVn（Nam Vu）](https://github.com/ZuzooVn)
+> * 原文作者：[ZuzooVn(Nam Vu)](https://github.com/ZuzooVn)
 > * 翻譯：[NeroCube](https://github.com/NeroCube)
 
 
 ## 這是？
 
-這是本人為期數月的學習計劃。我正要從一名行動裝置開發者（自學，沒有計算機學位）轉型成為一名機器學習工程師。
+這是本人為期數月的學習計劃。我正要從一名行動裝置開發者(自學，沒有計算機學位)轉型成為一名機器學習工程師。
 
 我的主要目標是找到一種以實踐為主的學習方法，並為初學者抽象掉大多數的數學概念。
 這種學習方法是非傳統的，因為它是專門為軟體工程師所設計的自上而下，以結果為導向的學習方法。
@@ -34,7 +34,7 @@
 - [機器學習概論](#機器學習概論)
 - [掌握機器學習](#掌握機器學習)
 - [有趣的機器學習](#有趣的機器學習)
-- [染墨的機器學習簡介](#機器學習簡介)
+- [染墨的機器學習簡介](#染墨的機器學習簡介)
 - [一本深入的機器學習指南](#一本深入的機器學習指南)
 - [故事與經驗](#故事與經驗)
 - [機器學習演算法](#機器學習演算法)
@@ -44,8 +44,8 @@
 - [系列影片](#系列影片)
 - [MOOC](#mooc)
 - [資源](#資源)
-- [成為一名開源貢獻者](#成為一名開源貢獻者)
 - [遊戲](#遊戲)
+- [成為一名開源貢獻者](#成為一名開源貢獻者)
 - [廣播](#廣播)
 - [社區](#社區)
 - [相關會議](#相關會議)
@@ -61,7 +61,7 @@
 - [我能在沒有計算機科學碩士、博士文憑的情況下找到一份關於機器學習的工作嗎？](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
     - *"你當然可以，但是我想進入這個領域則無比艱難。"* [Drac Smith](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD/answer/Drac-Smith?srid=oT0p)
 - [我是一名自學機器學習的軟體工程師，我如何在沒有相關經驗的情況下找到一份關於機器學習的工作？](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - *"我正在為我的團隊招聘機器學習專家，但你的 MOOC 並不會給你帶來工作機會。事實上，大多數機器學習方向的碩士也並不會得到工作機會，因為他們（與大多數上過 MOOC 的人一樣）並沒有深入地去理解。他們都沒法幫助我的團隊解決問題。"* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
+    - *"我正在為我的團隊招聘機器學習專家，但你的 MOOC 並不會給你帶來工作機會。事實上，大多數機器學習方向的碩士也並不會得到工作機會，因為他們(與大多數上過 MOOC 的人一樣)並沒有深入地去理解。他們都沒法幫助我的團隊解決問題。"* [Ross C. Taylor](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work/answer/Ross-C-Taylor?srid=oT0p)
 - [找一份機器學習相關的工作需要掌握怎樣的技能？](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
     - *"首先，你得有正兒八經的計科或數學專業背景。ML 是一個比較先進的課題，大多數的教材都會直接默認你有以上背景。其次，機器學習是一個集成了許多子專業的奇技淫巧的課題，你甚至會想看看 MS 的機器學習課程，去看看他們的授課、課程和教材。"* [Uri](http://softwareengineering.stackexchange.com/a/79717)
     - *"統計，假設，分佈式計算，然後繼續統計。"* [Hydrangea](http://softwareengineering.stackexchange.com/a/79575)
@@ -72,7 +72,7 @@
 - 實用機器學習： 這個方向主要是查詢資料庫、數據清洗、寫腳本來轉換數據，把演算法和函式庫結合起來再加上一些客製化的程式，從數據中擠出一些準確的答案來證明一些困難且模糊不清的問題。實際上它非常混亂。
 - 理論機器學習： 這個方向主要是關於數學、抽象、理想狀況、極限條件、典型例子以及一切可能的特徵。這個方向十分的乾凈、整潔，遠離混亂的現實。
 
-我認為對於以實踐為主的人來說，做好的方法就是 [“練習--學習--練習”](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985)，這意味著每個學生一開始就能參與一些現有項目與一些問題，並練習（解決）它們以熟悉傳統的方法是怎麼做的。在有了一些簡單的練習經驗之後，他們就可以開始鑽進書里去學習理論知識。這些理論知識將幫助他們在將來進行更進一步的訓練，充實他們解決實際問題的工具箱。學習理論知識還會加深他們對那些簡單練習的理解，幫助他們更快地獲得進階的經驗。
+我認為對於以實踐為主的人來說，做好的方法就是 [“練習--學習--練習”](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985)，這意味著每個學生一開始就能參與一些現有項目與一些問題，並練習(解決)它們以熟悉傳統的方法是怎麼做的。在有了一些簡單的練習經驗之後，他們就可以開始鑽進書里去學習理論知識。這些理論知識將幫助他們在將來進行更進一步的訓練，充實他們解決實際問題的工具箱。學習理論知識還會加深他們對那些簡單練習的理解，幫助他們更快地獲得進階的經驗。
 
 這是一個很長的計劃，它花去了我一年的時間。如果你已經對它有所瞭解了，它將會讓你省去很多時間。
 
@@ -274,7 +274,7 @@
 - [ ] [機器學習淬煉](https://code.tutsplus.com/courses/machine-learning-distilled)
 - [ ] [BigML training](https://bigml.com/training)
 - [ ] [Coursera 的神經網路課程](https://www.coursera.org/learn/neural-networks)
-    - 由Geoffrey Hinton（神經網路的先驅）執教
+    - 由Geoffrey Hinton(神經網路的先驅)執教
 - [ ] [使用 TensorFlow 創建深度學習應用](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [ ] [描述統計學概論](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [推理統計學概論](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
@@ -333,12 +333,6 @@
 - [令人驚嘆的機器學習](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi 的機器學習](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
-## 成為一名開源貢獻者
-- [ ] [tensorflow/magenta: Magenta: 用機器智慧生成音樂與藝術](https://github.com/tensorflow/magenta)
-- [ ] [tensorflow/tensorflow: 使用數據流圖進行計算進行可擴展的機器學習](https://github.com/tensorflow/tensorflow)
-- [ ] [cmusatyalab/openface: 使用深層神經網路進行面部識別](https://github.com/cmusatyalab/openface)
-- [ ] [tensorflow/models/syntaxnet: 神經網路模型語法](https://github.com/tensorflow/models/tree/master/syntaxnet)
-
 ## 遊戲
 - [Halite：AI 編程遊戲](https://halite.io/)
 - [Vindinium: 挑戰 AI 編程](http://vindinium.org/)
@@ -351,6 +345,12 @@
 - [AIIDE 星際爭霸 AI 競賽](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 - [CIG 星際爭霸 AI 競賽](https://sites.google.com/site/starcraftaic/)
 - [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
+
+## 成為一名開源貢獻者
+- [ ] [tensorflow/magenta: Magenta: 用機器智慧生成音樂與藝術](https://github.com/tensorflow/magenta)
+- [ ] [tensorflow/tensorflow: 使用數據流圖進行計算進行可擴展的機器學習](https://github.com/tensorflow/tensorflow)
+- [ ] [cmusatyalab/openface: 使用深層神經網路進行面部識別](https://github.com/cmusatyalab/openface)
+- [ ] [tensorflow/models/syntaxnet: 神經網路模型語法](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
 ## 廣播
 - ### 適合初學者的廣播：
