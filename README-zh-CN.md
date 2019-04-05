@@ -1,7 +1,7 @@
 # 自上而下的学习路线: 软件工程师的机器学习
 
 
-灵感来源于 [谷歌面试学习手册](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
+灵感来源于 [谷歌面试学习手册](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
 
 > * 原文地址：[Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
