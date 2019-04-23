@@ -1,5 +1,5 @@
 ﻿# Top-down learning path: Machine Learning for Software Engineers
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+Inspired by [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ptbr.md).
 
 _Se você gostou deste projeto, por favor me dê uma estrela_ &#9733; _e ajude a divulgar o material._ ;)
 
