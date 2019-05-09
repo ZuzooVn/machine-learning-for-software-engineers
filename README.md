@@ -12,15 +12,6 @@
   </a>
 </p>
 
-## What is it?
-
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
-
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner.
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
-
-Please, feel free to make any contributions you feel will make it better.
-
 ---
 
 ## Table of Contents
