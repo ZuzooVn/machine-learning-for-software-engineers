@@ -344,6 +344,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [Awesome Decion Trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+- [Awesome Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+- [Awesome Fraud Detection](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
 ## Games
