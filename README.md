@@ -342,7 +342,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
