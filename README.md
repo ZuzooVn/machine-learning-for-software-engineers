@@ -373,6 +373,9 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
     - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+    
+- ### Interviews with ML Practitioners, Researchers and Kagglers about their Joureny
+    - [Chai Time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x), [Audio](http://anchor.fm/chaitimedatascience), [Writeups](https://sanyambhutani.com/tag/chaitimedatascience/)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
@@ -381,7 +384,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
-
+    
 ## Communities
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
