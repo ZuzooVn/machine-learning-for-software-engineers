@@ -243,6 +243,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 - [ ] [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
+- [ ] [How Machine Learning Works (MEAP)](https://www.manning.com/books/how-machine-learning-works)
+    - [GitHub repository](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 - [ ] [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
 
 ## Kaggle knowledge competitions
