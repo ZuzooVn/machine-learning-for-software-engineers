@@ -203,6 +203,10 @@ Cada dia eu pego um assunto da lista abaixo, leia de capa a capa, tome nota, fa√
 	- [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
 	- [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 
+## Recursos
+
+- [Cursos Online de Machine Learning](https://pt-br.classpert.com/machine-learning)
+
 ## Pesquisas
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)

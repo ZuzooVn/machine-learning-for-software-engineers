@@ -348,6 +348,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [Machine Learning Online Courses](https://classpert.com/machine-learning)
 
 ## Games
 - [Halite: A.I. Coding Game](https://halite.io/)
