@@ -122,7 +122,7 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Prerequisite Knowledge
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+This short section consists of prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
 - [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
