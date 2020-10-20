@@ -370,6 +370,7 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+- [ ] [OperationSavta/SavtaDepth: Open Source Data Science (OSDS) Monocular Depth Estimation – Turn 2d photos into 3d photos – show your grandma the awesome results.](https://dagshub.com/OperationSavta/SavtaDepth)
 
 ## Podcasts
 - ### Podcasts pour Débutant:
