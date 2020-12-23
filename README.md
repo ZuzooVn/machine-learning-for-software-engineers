@@ -376,24 +376,21 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
     - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
-    
 - ### Interviews with ML Practitioners, Researchers and Kagglers about their Joureny
     - [Chai Time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x), [Audio](http://anchor.fm/chaitimedatascience), [Writeups](https://sanyambhutani.com/tag/chaitimedatascience/)
-
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
     - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
     - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
-
 - ### Podcasts to think outside the box:
     - [Data Stories](http://datastori.es/)
+- [DataTalks.Club Podcast](https://anchor.fm/datatalksclub)
     
 ## Communities
 - Quora
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
     - [Data Mining](https://www.quora.com/topic/Data-Mining)
-
 - Reddit
     - [Machine Learning](https://www.reddit.com/r/machinelearning)
     - [Computer Vision](https://www.reddit.com/r/computervision)
@@ -401,12 +398,10 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Data Science](https://www.reddit.com/r/datascience)
     - [Big Data](https://www.reddit.com/r/bigdata)
     - [Statistics](https://www.reddit.com/r/statistics)
-
 - [Data Tau](http://www.datatau.com/)
-
 - [Deep Learning News](http://news.startup.ml/)
-
 - [KDnuggets](http://www.kdnuggets.com/)
+- [DataTalks.Club](https://datatalks.club)
 
 ## Conferences
 - Neural Information Processing Systems ([NIPS](https://nips.cc/))
@@ -430,6 +425,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://elitedatascience.com/mlqa-reading-list)
 - [ ] [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [ ] [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## My admired companies
 - [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
