@@ -379,6 +379,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     
 - ### Interviews with ML Practitioners, Researchers and Kagglers about their Joureny
     - [Chai Time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x), [Audio](http://anchor.fm/chaitimedatascience), [Writeups](https://sanyambhutani.com/tag/chaitimedatascience/)
+    - [Machine Learning for Beginners - Interviews](https://www.youtube.com/channel/UCdZ0GX-F3ULMKfxtyzSFbaw), [Audio](https://jayshah.buzzsprout.com/)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
