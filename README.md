@@ -246,6 +246,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [How Machine Learning Works (MEAP)](https://www.manning.com/books/how-machine-learning-works)
     - [GitHub repository](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 - [ ] [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
+- [ ] [Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 ## Kaggle knowledge competitions
 - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
