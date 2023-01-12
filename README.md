@@ -363,6 +363,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [AIIDE StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
 - [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
 - [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
+- [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
