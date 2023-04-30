@@ -369,6 +369,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+- [] [unifyai/ivy] (https://github.com/unifyai/ivy)
 
 ## Podcasts
 - ### Podcasts for Beginners:
