@@ -148,7 +148,7 @@ Chaque jours, je choisis un sujet de la liste juste en dessous et je le lis enti
 
 ## Découvrir le Machine learning
 - [ ] [Introduction au Machine Learning en image](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [Un guide pour aborder le Machine Learning en douceur](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [Un guide pour aborder le Machine Learning en douceur](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [ ] [Introduction au Machine Learning pour développeur](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [Les bases du Machines Learning pour débutant](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [Comment expliquer le Machine Learning et le Data Mining aux non-initiés?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)

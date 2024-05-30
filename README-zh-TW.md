@@ -129,7 +129,7 @@
 
 ## 機器學習概論
 - [ ] [機器學習的形象簡介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [一份輕鬆的機器學習指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [ ] [一份輕鬆的機器學習指南](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [ ] [為開發者準備的機器學習簡介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鳥的機器學習基礎](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非計算機專業的人來解釋機器學習與資料探勘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
